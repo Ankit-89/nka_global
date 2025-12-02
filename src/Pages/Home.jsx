@@ -941,7 +941,7 @@ function Home() {
                                     </div>
                                 </div>
                                 <div className="col-lg-7 col-md-7 px-1 py-2">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d7000.808679005676!2d77.283229!3d28.677549!3m2!1i1024!2i768!4f13.1!2m1!1sH-12%20P%20Block%2C%20Panchshell%20Park%2C%20Shahdara%20New%20Delhi%2C%20Delhi%2C%20110032!5e0!3m2!1sen!2sin!4v1762678668078!5m2!1sen!2sin" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d7000.808679005676!2d77.283229!3d28.677549!3m2!1i1024!2i768!4f13.1!2m1!1sH-12%20P%20Block%2C%20Panchshell%20Park%2C%20Shahdara%20New%20Delhi%2C%20Delhi%2C%20110032!5e0!3m2!1sen!2sin!4v1762678668078!5m2!1sen!2sin" width="100%" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                             </div>
                         </div>
