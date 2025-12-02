@@ -39,7 +39,34 @@ const TestimonialSlider = () => {
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 4000,
-    arrows: false
+    initialSlide: 0,
+    arrows: false,
+    responsive: [
+      {
+        breakpoint: 1024, // For screens smaller than 1024px
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1,
+          infinite: true,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 600, // For screens smaller than 600px
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          initialSlide: 1 // Start at the second slide
+        }
+      },
+      {
+        breakpoint: 480, // For screens smaller than 480px
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
   };
 
   return (
