@@ -648,19 +648,19 @@ input::placeholder, textarea::placeholder {
 
 /* Overlay */
 .overlay{
-  background-image: linear-gradient(180deg,#402306 100%, #b1690c 50%);
+  background-image: linear-gradient(180deg,#400614 100%, #b1690c 50%);
   background-blend-mode: overlay;
   background-size:auto;
   position: absolute;
   height: 100%;
   width: 100%;
   top: 0;
-  opacity: .5;
+  opacity: .3;
 }
 
 /* Overlay for other pages*/
 .page-banner .overlay{
-  background-image: linear-gradient(180deg,#402306 0%, #b1690c 100%);
+  background-image: linear-gradient(180deg,#400614 0%, #b1690c 100%);
  }
 
 @media (min-width: 1400px) {

@@ -15,19 +15,6 @@ function Home() {
                 <div className="container">
                     <div className="inner-banner position-relative text-white ">
                         <div className='row'>
-                            {/* <div className="col-lg-6 order-2 order-lg-1">
-                                <div className="banner-left text-center pb-lg-5 p-md-0">
-                                    <div className="banner-image">
-                                        <img src="/assets/images/team/9.png" alt="banner-image" className="w-50" /><br />
-                                    </div>
-                                    <div className="countdown">
-                                        <div id="countdown"
-                                            className="countdown-inner d-flex w-100 bg-white p-2 rounded-5 justify-content-center box-shadow position-relative z-2">
-                                            <Countdown />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> */}
                             <div className="col-lg-6 order-1 order-lg-2 bg-grey bg-opacity-25 rounded py-4">
                                 <div className="banner-right ms-2 text-center text-lg-start">
                                     <div className="banner-title pb-3">
@@ -37,25 +24,15 @@ function Home() {
                                     <div className="banner-event-info pb-3">
                                         <ul className="m-0 ps-0 d-sm-flex justify-content-center justify-content-lg-start list-unstyled">
                                             <li className="pe-2 border-end border-1 border-lightgrey">
-                                                <i className="fa  fa-calendar-o pe-1"></i> 22-24 MAY 2024
+                                                <i className="fa  fa-calendar-o pe-1"></i> 22-24 AUG 2021
                                             </li>
                                             <li className="ps-2">
-                                                <i className="fa  fa-map-marker pe-1"></i> QUEENBAY MALL 4217 ROAD, USA
+                                                <i className="fa  fa-map-marker pe-1"></i> Delhi, India
                                             </li>
                                         </ul>
                                     </div>
                                     <div className="event-discription">
                                         <p className="pb-4 m-0">Our global network, efficient supply chain, and customer-first approach ensure on-time delivery and long-term partnerships</p>
-                                        {/* <div className="banner-button">
-                                            <div className="row">
-                                                <div className="col-lg-6 col-md-6">
-                                                    <Link to="/Booknow" className="btn me-3 my-1 w-100">PURCHASE TICKET</Link>
-                                                </div>
-                                                <div className="col-lg-6 col-md-6">
-                                                    <Link to="/Eventlists" className="btn btn2 my-1 w-100">VIEW SCHEDULE</Link>
-                                                </div>
-                                            </div>
-                                        </div> */}
                                     </div>
                                 </div>
                             </div>
@@ -130,16 +107,16 @@ function Home() {
                                         <div className="col-lg-6 col-md-6 p-0 ">
                                             <div className="container-img-left mb-2">
                                                 <div className="img-left-1 float-end w-lg-80">
-                                                    <img className="mb-2 w-100 rounded" src="/assets/images/group/1.jpg" alt="group-image" />
+                                                    <img className="mb-2 w-100 rounded" src="/assets/images/group/1.jpg" alt="group-image" loading="lazy" />
                                                 </div>
                                                 <div className="img-left-2">
-                                                    <img src="/assets/images/group/2.jpg" alt="group-image" className="w-100 rounded" />
+                                                    <img src="/assets/images/group/2.jpg" alt="group-image" className="w-100 rounded" loading="lazy" />
                                                 </div>
                                             </div>
                                         </div>
                                         <div className="col-lg-6 col-md-6">
                                             <div className="container-img-right w-lg-75">
-                                                <img src="/assets/images/group/3.jpg" alt="group-image" className="w-100 rounded" />
+                                                <img src="/assets/images/group/3.jpg" alt="group-image" className="w-100 rounded" loading="lazy" />
                                             </div>
                                         </div>
                                     </div>
@@ -175,77 +152,41 @@ function Home() {
                             <div className="row">
                                 <div className=" col-lg-3 col-md-6 p-2">
                                     <div className="speaker-box  position-relative overflow-hidden text-white">
-                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s1.png" alt="speaker-image" />
+                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s1.png" alt="speaker-image" loading="lazy" />
                                         <div className="box-content position-absolute bottom-0 p-4 z-1">
                                             <h6 className="speaker-title d-block text-white pb-1"><Link to="/Speakerdetail">CEREALS</Link>
                                             </h6>
                                             <span className="speaker-post d-block pb-2">Wheat, Rice, Maize, Barley, and other grains sourced from trusted Indian farms</span>
-                                            {/* <ul className="social-link pb-2 ps-0 d-flex gap-2 position-relative justify-content-center">
-                                                {['facebook', 'twitter', 'google', 'instagram'].map((icon, i) => (
-                                                    <li key={i} className="d-inline-block">
-                                                        <a href="#" className="rounded d-block">
-                                                            <i className={`fa fa-${icon}`}></i>
-                                                        </a>
-                                                    </li>
-                                                ))}
-                                            </ul> */}
                                         </div>
                                     </div>
                                 </div>
                                 <div className=" col-lg-3 col-md-6 p-2">
                                     <div className="speaker-box position-relative overflow-hidden">
-                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s2.png" alt="speaker-image" />
+                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s2.png" alt="speaker-image" loading="lazy" />
                                         <div className="box-content position-absolute bottom-0 p-4 z-1">
                                             <h6 className="speaker-title d-block text-white pb-1"><Link to="/Speakerdetail">COFFEE</Link>
                                             </h6>
                                             <span className="speaker-post d-block pb-2">Premium Arabica and Robusta Coffee Beans — known for rich aroma and taste</span>
-                                            {/* <ul className="social-link pb-2 ps-0 d-flex gap-2 position-relative justify-content-center">
-                                                {['facebook', 'twitter', 'google', 'instagram'].map((icon, i) => (
-                                                    <li key={i} className="d-inline-block">
-                                                        <a href="#" className="rounded d-block">
-                                                            <i className={`fa fa-${icon}`}></i>
-                                                        </a>
-                                                    </li>
-                                                ))}
-                                            </ul> */}
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-3 col-md-6 p-2">
                                     <div className="speaker-box position-relative overflow-hidden">
-                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s3.png" alt="speaker-image" />
+                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s3.png" alt="speaker-image" loading="lazy" />
                                         <div className="box-content position-absolute bottom-0 p-4 z-1">
                                             <h6 className="speaker-title d-block text-white pb-1"><Link to="/Speakerdetail">SPCIES</Link>
                                             </h6>
                                             <span className="speaker-post d-block pb-2">Authentic Indian spices such as Turmeric, Black Pepper, Cardamom, Cloves, Cumin, Coriander, and Chili</span>
-                                            {/* <ul className="social-link pb-2 ps-0 d-flex gap-2 position-relative justify-content-center">
-                                                {['facebook', 'twitter', 'google', 'instagram'].map((icon, i) => (
-                                                    <li key={i} className="d-inline-block">
-                                                        <a href="#" className="rounded d-block">
-                                                            <i className={`fa fa-${icon}`}></i>
-                                                        </a>
-                                                    </li>
-                                                ))}
-                                            </ul> */}
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-3 col-md-6 p-2">
                                     <div className="speaker-box position-relative overflow-hidden">
-                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s4.png" alt="speaker-image" />
+                                        <img className="speaker-image rounded w-100" src="/assets/images/speakers/s4.png" alt="speaker-image" loading="lazy" />
                                         <div className="box-content position-absolute bottom-0 p-4 z-1">
                                             <h6 className="speaker-title d-block text-white pb-1"><Link to="/Speakerdetail">TEA</Link>
                                             </h6>
                                             <span className="speaker-post d-block pb-2">Premium CTC Tea, Green Tea, and Specialty Blends — known for rich aroma and taste</span>
-                                            {/* <ul className="social-link pb-2 ps-0 d-flex gap-2 position-relative justify-content-center">
-                                                {['facebook', 'twitter', 'google', 'instagram'].map((icon, i) => (
-                                                    <li key={i} className="d-inline-block">
-                                                        <a href="#" className="rounded d-block">
-                                                            <i className={`fa fa-${icon}`}></i>
-                                                        </a>
-                                                    </li>
-                                                ))}
-                                            </ul> */}
                                         </div>
                                     </div>
                                 </div>
@@ -376,78 +317,6 @@ function Home() {
             </section>
             {/*--Features Section end--*/}
 
-            {/*--Partners Section start--*/}
-            {/* <section className="partners">
-                <div className="container">
-                    <div className="partner-inner">
-                        <div className="partner-title text-center pb-6 w-lg-60 m-auto">
-                            <p className="mb-1 pink">OUR CERTIFICATES</p>
-                            <h2 className="mb-1">REGISTRATION AND <span className="pink">CERTIFICATION</span></h2>
-                            <p className="m-0">As a trusted <b>Merchant Exporter</b>, we take pride in maintaining the
-                                highest standards of quality, compliance, and transparency.</p>
-                        </div>
-                        <div className="partner-img pb-6">
-                            <div className="row row-cols-1 row-cols-lg-5 row-cols-md-5 ">
-                                <div className="col p-0 border-end border-sm-0">
-                                    <div className="p-2 partner-img-box text-center">
-                                        <img src="/assets/images/icon/white-logo.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-end border-sm-0">
-                                    <div className="p-2 partner-img-box text-center ">
-                                        <img src="/assets/images/icon/2.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-end border-sm-0">
-                                    <div className="p-2 partner-img-box text-center">
-                                        <img src="/assets/images/icon/3.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-end border-sm-0">
-                                    <div className="p-2 partner-img-box text-center">
-                                        <img src="/assets/images/icon/4.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-sm-0">
-                                    <div className="p-2 partner-img-box text-center">
-                                        <img src="/assets/images/icon/5.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-end border-top border-sm-0">
-                                    <div className="p-2 partner-img-box text-center">
-                                        <img src="/assets/images/icon/3.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-end border-top border-sm-0">
-                                    <div className="p-2 partner-img-box text-center">
-                                        <img src="/assets/images/icon/4.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-end border-top border-sm-0">
-                                    <div className="p-2 partner-img-box text-center ">
-                                        <img src="/assets/images/icon/5.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-end border-top border-sm-0">
-                                    <div className="p-2 partner-img-box text-center ">
-                                        <img src="/assets/images/icon/white-logo.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                                <div className="col p-0 border-top border-0 border-sm-0">
-                                    <div className="p-2 partner-img-box text-center border-sm-0">
-                                        <img src="/assets/images/icon/2.png" alt="partner-img" className="opacity-75 w-lg-75 w-md-100 w-40" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="partner-button text-center">
-                            <Link to="/Sponsers" className="btn">VIEW ALL CERTIFICATES</Link>
-                        </div>
-                    </div>
-                </div>
-            </section> */}
-            {/*--Partners Section end--*/}
-
             {/*--Gallery Section end--*/}
             <section className="gallery">
                 <div className="container">
@@ -497,295 +366,6 @@ function Home() {
                 </div>
             </section>
             {/*--Ticketbook Section end--*/}
-
-            {/*--Schedules Section start--*/}
-            {/* <section className="schedules">
-                <div className="container">
-                    <div className="schedule-inner">
-                        <div className="schedule-title text-center mb-6 w-lg-60 mx-auto">
-                            <p className="mb-1 pink">OUR SCHEDULES</p>
-                            <h2 className="mb-1">FOLLOW <span className="pink">EVENT</span> SCHEDULES</h2>
-                            <p className="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper
-                                mattis, pulvinar dapibus leo.</p>
-                        </div>
-                        <div className="schedule-list-outer">
-                            <div className="schedule-list-top mb-7">
-                                <div className="row align-items-center">
-                                    <div className="col-lg-3 col-md-4">
-                                        <div className="schedule-day text-center text-sm-start py-6 position-relative ps-2 z-1">
-                                            <h4 className="pink mb-2">1ST DAY</h4>
-                                            <h6 className="mb-2">APRIL 23, 2024</h6>
-                                            <p>William Mathew Theater<br />
-                                                2390 NW 2nd Ave, Miami, FL 33127</p>
-                                        </div>
-                                    </div>
-                                    <div className="col-lg-9 col-md-8">
-                                        <div className="schedule-list  text-center text-sm-start">
-                                            <div className=" schedule-list-box bg-lightgrey   border border-white border-2 rounded px-6 py-4 mb-5">
-                                                <div className="schedule-box-title">
-                                                    <h5 className="mb-2"><Link to="/Eventdetail" className="black">REGISTRATION & BREAKFAST</Link></h5>
-                                                </div>
-                                                <div className="schedule-box-info">
-                                                    <p className="mb-2"><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
-                                                        luctus nec ullamcorper mattis, pulvinar dapibus leo, luctus nec ullamcorper mattis, pulvinar
-                                                        dapibus leo.</small></p>
-                                                    <ul className="mb-2 p-0">
-                                                        <li className="d-inline"><i className="fa fa-clock-o pink me-2" aria-hidden="true"></i><small>08:30 -
-                                                            09:30 AM</small></li>
-                                                        <li className="d-inline"><i className="fa fa-thumb-tack pink mx-2"
-                                                            aria-hidden="true"></i><small>Exploration Hall</small></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="schedule-box-bio d-md-flex">
-                                                    <div className="schedule-bio-image ">
-                                                        <img src="/assets/images/team/1.jpg" alt="team-image" className="me-2 rounded-circle" />
-                                                    </div>
-                                                    <div className="schedule-bio-info">
-                                                        <p className="mt-1 mb-0"><Link to="/Eventdetail" className="pink">JESUS HOLLAND</Link></p>
-                                                        <small>Host & Speaker</small>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div className=" schedule-list-box bg-white border-lightgrey border border-2 rounded px-6 py-4">
-                                                <div className="schedule-box-title">
-                                                    <h5 className="mb-2"><Link to="/Eventdetail" className="black">SPEED: MARKETING MASTER!</Link></h5>
-                                                </div>
-                                                <div className="schedule-box-info">
-                                                    <p className="mb-2"><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
-                                                        luctus nec ullamcorper mattis, pulvinar dapibus leo, luctus nec ullamcorper mattis, pulvinar
-                                                        dapibus leo.</small></p>
-                                                    <ul className="mb-2 p-0">
-                                                        <li className="d-inline"><i className="fa fa-clock-o pink me-2" aria-hidden="true"></i><small>08:30 -
-                                                            09:30 AM</small></li>
-                                                        <li className="d-inline"><i className="fa fa-thumb-tack pink mx-2"
-                                                            aria-hidden="true"></i><small>Exploration Hall</small></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="schedule-box-bio d-md-flex">
-                                                    <div className="schedule-bio-image">
-                                                        <img src="/assets/images/team/2.jpg" alt="team-image" className="me-2 rounded-circle" />
-                                                    </div>
-                                                    <div className="schedule-bio-info">
-                                                        <p className="mt-1 mb-0"><Link to="/Eventdetail" className="pink">NELSON KETY</Link></p>
-                                                        <small>Host & Speaker</small>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="schedule-title-bottom">
-                                <div className="row align-items-center">
-                                    <div className="col-lg-3 col-md-4">
-                                        <div className="schedule-day text-center position-relative text-sm-start py-6 ps-2 z-1">
-                                            <h4 className=" pink mb-2">2ND DAY</h4>
-                                            <h6 className="mb-2">APRIL 24, 2024</h6>
-                                            <p>William Mathew Theater<br />
-                                                2390 NW 2nd Ave, Miami, FL 33127</p>
-                                        </div>
-                                    </div>
-                                    <div className="col-lg-9 col-md-8">
-                                        <div className="schedule-list text-center text-sm-start">
-                                            <div className=" schedule-list-box bg-lightgrey   border border-white border-2 rounded px-6 py-4 mb-5">
-                                                <div className="schedule-box-title">
-                                                    <h5 className="mb-2"><Link to="/Eventdetail" className="black">REGISTRATION & BREAKFAST</Link></h5>
-                                                </div>
-                                                <div className="schedule-box-info">
-                                                    <p className="mb-2"><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
-                                                        luctus nec ullamcorper mattis, pulvinar dapibus leo, luctus nec ullamcorper mattis, pulvinar
-                                                        dapibus leo.</small></p>
-                                                    <ul className="mb-2 p-0">
-                                                        <li className="d-inline"><i className="fa fa-clock-o pink me-2" aria-hidden="true"></i><small>08:30 -
-                                                            09:30 AM</small></li>
-                                                        <li className="d-inline"><i className="fa fa-thumb-tack pink mx-2"
-                                                            aria-hidden="true"></i><small>Exploration Hall</small></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="schedule-box-bio d-md-flex">
-                                                    <div className="schedule-bio-image">
-                                                        <img src="/assets/images/team/3.jpg" alt="team-image" className="me-2 rounded-circle" />
-                                                    </div>
-                                                    <div className="schedule-bio-info">
-                                                        <p className="mt-1 mb-0"><Link to="/Eventdetail" className="pink">PEELRS HELM</Link></p>
-                                                        <small>Host & Speaker</small>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div className=" schedule-list-box bg-white border-lightgrey border border-2 rounded px-6 py-4 mb-5">
-                                                <div className="schedule-box-title">
-                                                    <h5 className="mb-2"><Link to="/Eventdetail" className="black">EXPLORATIONS OF NEW APPROACHES</Link></h5>
-                                                </div>
-                                                <div className="schedule-box-info">
-                                                    <p className="mb-2"><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus,
-                                                        luctus nec ullamcorper mattis, pulvinar dapibus leo, luctus nec ullamcorper mattis, pulvinar
-                                                        dapibus leo.</small></p>
-                                                    <ul className="mb-2 p-0">
-                                                        <li className="d-inline"><i className="fa fa-clock-o pink me-2" aria-hidden="true"></i><small>08:30 -
-                                                            09:30 AM</small></li>
-                                                        <li className="d-inline"><i className="fa fa-thumb-tack pink mx-2"
-                                                            aria-hidden="true"></i><small>Exploration Hall</small></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="schedule-box-bio d-md-flex">
-                                                    <div className="schedule-bio-image">
-                                                        <img src="/assets/images/team/1.jpg" alt="team-image" className="me-2 rounded-circle" />
-                                                    </div>
-                                                    <div className="schedule-bio-info">
-                                                        <p className="mt-1 mb-0 pink"><Link to="/Eventdetail" className="pink">JESUS HOLLAND</Link></p>
-                                                        <small>Host & Speaker</small>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div className="partner-button mt-6">
-                                                <Link to="/Eventlists" className="btn">VIEW MORE DETAILS</Link>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> */}
-            {/*--Schedules Section end--*/}
-
-            {/*--Pricing Section start--*/}
-            {/* <section className="price bg-lightgrey">
-                <div className="container">
-                    <div className="price-inner text-center">
-                        <div className="price-title mb-7 w-lg-60 m-auto">
-                            <p className="mb-1 pink">PRICING TABLE</p>
-                            <h2 className="mb-1">EXPLORE FLEXIBLE <span className="pink">PRICING</span> PLANS</h2>
-                            <p className="m-0">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-                                id est laborum.</p>
-                        </div>
-                        <div className="price-options g-2 pb-6">
-                            <div className="row">
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="ticket-box">
-                                        <div className="ticket-box-inner bg-white position-relative rounded-bottom-5">
-                                            <img src="/assets/images/pattern/white-logo.png" alt="pattern" className="w-100 pattern position-absolute rounded-top" />
-                                            <div className="ticket-title">
-                                                <h4 className="pt-6  mb-1">BASIC TICKET</h4>
-                                                <p>Stander Package</p>
-                                            </div>
-                                            <div className="ticket-price bg-white py-6">
-                                                <div className="ticket-price-inner d-flex justify-content-center align-items-start black fw-bold">
-                                                    <span className="me-1 mb-0 currency">$</span>
-                                                    <span className="me-1 m-0 dollor">19</span>
-                                                    <span className="me-1 mb-0 cents">99</span>
-                                                </div>
-                                                <p className="m-0">Person</p>
-                                            </div>
-                                            <div className="benifit-list bg-white px-5">
-                                                <ul className="m-auto p-0 list-unstyled">
-                                                    <li className="py-2 text-capitalize lh-1  border-dashed-bottom-1">
-                                                        <p className="my-1"><small>Second Balcony Seat</small></p>
-                                                    </li>
-                                                    <li className="py-2 text-capitalize lh-1  border-dashed-bottom-1">
-                                                        <p className="my-1"><small>Snack & software</small></p>
-                                                    </li>
-                                                    <li className="py-2 text-capitalize lh-1  border-dashed-bottom-1">
-                                                        <p className="my-1"><small>Certificates</small></p>
-                                                    </li>
-                                                    <li className="pt-2 border border-0 text-capitalize lh-1">
-                                                        <p className="my-1"><small>Private access</small></p>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div className="ticket-button  m-auto p-6">
-                                                <Link to="/Pricing" className="btn">PURCHASE</Link>
-                                                <p className="mt-4"><small>*Please read our term and condition before order ticket</small></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="ticket-box-inner bg-white position-relative rounded-bottom-5">
-                                        <img src="/assets/images/pattern/2.png" alt="pattern" className="w-100 pattern position-absolute rounded-top" />
-                                        <div className="ticket-title py-6 bg-pink text-white ">
-                                            <h4 className="text-white  mb-1">SILVER TICKET</h4>
-                                            <p>Pro Package</p>
-                                        </div>
-                                        <div className="ticket-price bg-white py-6">
-                                            <div className="ticket-price-inner d-flex justify-content-center align-items-start fw-bold">
-                                                <span className="me-1 mb-0 currency pink">$</span>
-                                                <span className="me-1 m-0 dollor pink">39</span>
-                                                <span className="me-1 mb-0 cents pink">99</span>
-                                            </div>
-                                            <p className="m-0">Person</p>
-                                        </div>
-                                        <div className="benifit-list bg-white">
-                                            <ul className=" m-auto p-0 list-unstyled">
-                                                <li className="pb-2 border border-0 text-capitalize lh-1">
-                                                    <p className="my-1"><small>Second Balcony Seat</small></p>
-                                                </li>
-                                                <li className="py-2 border border-0 text-capitalize lh-1">
-                                                    <p className="my-1"><small>Snack & software</small></p>
-                                                </li>
-                                                <li className="py-2 border border-0 text-capitalize lh-1">
-                                                    <p className="my-1"><small>Certificates</small></p>
-                                                </li>
-                                                <li className="py-2 border border-0 text-capitalize lh-1">
-                                                    <p className="my-1"><small>Private access</small></p>
-                                                </li>
-                                                <li className="pt-2 border border-0 text-capitalize lh-1">
-                                                    <p className="my-1"><small>Printed material</small></p>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div className="partner-button  m-auto p-6">
-                                            <Link to="/Pricing" className="btn">PURCHASE</Link>
-                                            <p className="mt-4"><small>*Please read our term and condition before order ticket</small></p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-4 col-md-6">
-                                    <div className="ticket-box-inner  bg-white position-relative rounded-bottom-5">
-                                        <img src="/assets/images/pattern/white-logo.png" alt="pattern" className="w-100 pattern position-absolute rounded-top" />
-                                        <div className="ticket-title">
-                                            <h4 className="pt-6 mb-1">GOLDEN TICKET</h4>
-                                            <p>Enterprise Package</p>
-                                        </div>
-                                        <div className="ticket-price bg-white py-6">
-                                            <div className="ticket-price-inner d-flex justify-content-center align-items-start black fw-bold">
-                                                <span className="me-1 mb-0 currency">$</span>
-                                                <span className="me-1 m-0 dollor">199</span>
-                                                <span className="me-1 mb-0 cents">99</span>
-                                            </div>
-                                            <p className="m-0">Person</p>
-                                        </div>
-                                        <div className="benifit-list bg-white px-5">
-                                            <ul className=" m-auto p-0 list-unstyled">
-                                                <li className="py-2 text-capitalize lh-1  border-dashed-bottom-1">
-                                                    <p className="my-1"><small>Second Balcony Seat</small></p>
-                                                </li>
-                                                <li className="py-2 text-capitalize lh-1  border-dashed-bottom-1">
-                                                    <p className="my-1"><small>Snack & software</small></p>
-                                                </li>
-                                                <li className="py-2 text-capitalize lh-1  border-dashed-bottom-1">
-                                                    <p className="my-1"><small>Certificates</small></p>
-                                                </li>
-                                                <li className="pt-2 border border-0 text-capitalize lh-1">
-                                                    <p className="my-1"><small>Private access</small></p>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div className="partner-button  m-auto p-5">
-                                            <Link to="/Pricing" className="btn">PURCHASE</Link>
-                                            <p className="mt-4"><small>*Please read our term and condition before order ticket</small></p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <p className="m-0">All prices exclude 25% VAT. For more details, view our <a href="" className="pink">Terms & Policy</a></p>
-                    </div>
-                </div>
-            </section> */}
-            {/*--Pricing Section end--*/}
 
             {/*--Testimonials Section start--*/}
             <section className="testimonial bg-lightgrey">
@@ -948,13 +528,13 @@ function Home() {
                         <div className="location-gallery">
                             <div id="selector" className="row pt-1 justify-content-center">
                                 <div className="item col-lg-4 col-md-6 p-1" data-src="images/group/4.jpg">
-                                    <a><img src="/assets/images/thumbnail/s2.png" className="w-100 rounded" alt="VR Presentation and conference" /></a>
+                                    <a><img src="/assets/images/thumbnail/s2.png" className="w-100 rounded" alt="VR Presentation and conference" loading="lazy" /></a>
                                 </div>
                                 <div className="item col-lg-4 col-md-6 p-1" data-src="images/group/7.jpg">
-                                    <a><img src="/assets/images/thumbnail/s7.jpg" className="w-100 rounded" alt="VR Presentation and conference" /></a>
+                                    <a><img src="/assets/images/thumbnail/s7.jpg" className="w-100 rounded" alt="VR Presentation and conference" loading="lazy" /></a>
                                 </div>
                                 <div className="item col-lg-4 col-md-6 p-1" data-src="images/group/1.jpg">
-                                    <a><img src="/assets/images/thumbnail/s1.jpg" className="w-100 rounded" alt="VR Presentation and conference" /></a>
+                                    <a><img src="/assets/images/thumbnail/s1.jpg" className="w-100 rounded" alt="VR Presentation and conference" loading="lazy" /></a>
                                 </div>
                             </div>
                         </div>
@@ -962,68 +542,6 @@ function Home() {
                 </div>
             </section>
             {/*--Direction Section end--*/}
-
-            {/*--Blog Section start--*/}
-            {/* <section className="blog">
-                <div className="container">
-                    <div className="blog-inner">
-                        <div className="row align-items-center">
-                            <div className="col-lg-6  ">
-                                <div className="blog-title text-center text-lg-start p-2">
-                                    <p className="mb-1 pink">RECENT NEWS</p>
-                                    <h2 className="mb-1">READ MY <span className="pink">NEWS </span>TO KNOW MORE</h2>
-                                    <p className="mb-0">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-                                        anim id est laborum.</p>
-                                </div>
-                            </div>
-                            <div className="col-lg-6  p-2">
-                                <div className="blog-button text-center text-lg-end">
-                                    <Link to="/Blogsingle" className="btn">VIEW MORE</Link>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="blog-content">
-                            <div className="row">
-                                <div className=" col-lg-4 p-4 pb-0">
-                                    <div className="blog-box border border-1 rounded pb-2 text-center ">
-                                        <Link to="/Blogsingle"><img className="blog-img rounded rounded-bottom-0 w-100 h-auto" src="/assets/images/group/6.jpg" alt="blog-img" /></Link>
-                                        <h5 className="p-4"><Link to="/Blogsingle" className="black">THE TOP MUSIC FESTIVAL IN NEW YORK CITY</Link></h5>
-                                        <p className="p-4 pt-0 m-0 border-bottom"><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                            sed do</small></p>
-                                        <div className="pt-2">
-                                            <span className="px-4  border-end ">April 3, 2023 </span><span className="px-4">No Comments </span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className=" col-lg-4  p-4 pb-0">
-                                    <div className="blog-box border border-1 rounded pb-2 text-center">
-                                        <Link to="/Blogsingle"><img className="blog-img rounded w-100 rounded-bottom-0 h-auto" src="/assets/images/group/7.jpg" alt="blog-img" /></Link>
-                                        <h5 className="p-4"><Link to="/Blogsingle" className="black">LIVE INTERVIEWS FROM CONFERENCE</Link></h5>
-                                        <p className="p-4 pt-0 m-0 border-bottom"><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                            sed do</small></p>
-                                        <div className="pt-2">
-                                            <span className="px-4  border-end ">April 3, 2023 </span><span className="px-4">No Comments </span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className=" col-lg-4 p-4 pb-0 ">
-                                    <div className="blog-box border border-1 rounded pb-2 text-center">
-                                        <Link to="/Blogsingle"><img className="blog-img rounded rounded-bottom-0 w-100 h-auto" src="/assets/images/group/4.jpg" alt="blog-img" /></Link>
-                                        <h5 className="p-4"><Link to="/Blogsingle" className="black">REGISTRATION FOR OPENING WORKSHOP</Link></h5>
-                                        <p className="p-4 pt-0 m-0 border-bottom"><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                            sed do</small></p>
-                                        <div className="pt-2">
-                                            <span className="px-4  border-end ">April 3, 2023 </span><span className="px-4">No Comments </span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> */}
-            {/*--Blog Section end--*/}
-
         </div >
     )
 }

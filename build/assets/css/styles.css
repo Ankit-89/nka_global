@@ -59,7 +59,7 @@
 }
 
 .fixed-top {
-  background-color: #402306;
+  background-color: #400614;
 }
 
 @media (min-width: 992px) {
@@ -474,7 +474,7 @@
 
 .ticket .overlay,
 .next-sponser .overlay {
-  background-image: linear-gradient(90deg, #402306 0%, #402306 100%);
+  background-image: linear-gradient(90deg, #400614 0%, #400614 100%);
 }
 
 /*Schedules*/
@@ -504,7 +504,7 @@
 } */
 
 .schedule-bio-info p a:hover {
-  color: #402306;
+  color: #400614;
   transition: all 0.3s ease-in-out;
 }
 
@@ -717,7 +717,7 @@
 
 /* Subscribe */
 .subscribe {
-  background-image: linear-gradient(90deg, #402306 0%, #402306 95%);
+  background-image: linear-gradient(90deg, #400614 0%, #400614 95%);
 }
 
 /* footer */
@@ -730,7 +730,7 @@ footer {
 }
 
 footer .overlay {
-  background-image: linear-gradient(90deg, #b1690c 0%, #402306 100%);
+  background-image: linear-gradient(90deg, #b1690c 0%, #400614 100%);
 }
 
 .footer-socials a {
@@ -875,7 +875,7 @@ footer .overlay {
 }
 
 .contact-us-outer .overlay {
-  background-image: linear-gradient(180deg, #402306 0%, #402306 100%);
+  background-image: linear-gradient(180deg, #400614 0%, #400614 100%);
   border-radius: 25px;
 }
 
@@ -1083,7 +1083,7 @@ footer .overlay {
 
 /* Search Result Section css */
 .blog-info a small:hover {
-  color: #402306;
+  color: #400614;
   transition: all 0.5s ease-in-out;
 }
 
@@ -1116,7 +1116,7 @@ footer .overlay {
 }
 
 .coming-soon .overlay {
-  background-image: linear-gradient(90deg, #402306 0%, #402306 100%);
+  background-image: linear-gradient(90deg, #400614 0%, #400614 100%);
   top: 0;
   left: 0;
   opacity: 0.7;
