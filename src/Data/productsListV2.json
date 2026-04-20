@@ -1,0 +1,1890 @@
+[
+  {
+    "categoryName": "Rice",
+    "productName": "1121 Parboiled / Sella Basmati Rice",
+    "shortDescription": "Long-grain 1121 variety parboiled basmati rice with golden hue.\nKnown for extra-long grain length and non-sticky texture after cooking.",
+    "specifications": [
+      "Grain Length (Raw): 8.35mm min",
+      "Grain Length (Cooked): 22mm min",
+      "Moisture: 12% max",
+      "Broken: 1% max",
+      "Admixture: 2% max"
+    ],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "1121 Steam Basmati Rice",
+    "shortDescription": "Premium 1121 variety steam-processed basmati rice retaining natural white colour.\nIdeal for fine dining and premium retail markets.",
+    "specifications": [
+      "Grain Length (Raw): 8.35mm min",
+      "Grain Length (Cooked): 22mm min",
+      "Moisture: 12% max",
+      "Broken: 1% max",
+      "Whiteness: 42+ BU"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "1509 Parboiled / Sella Basmati Rice",
+    "shortDescription": "1509 variety parboiled basmati rice with rich aroma and firm texture.\nPopular for bulk export and institutional catering.",
+    "specifications": [
+      "Grain Length (Raw): 7.90mm min",
+      "Grain Length (Cooked): 20mm min",
+      "Moisture: 12% max",
+      "Broken: 1% max",
+      "Admixture: 2% max"
+    ],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "1509 Steam Basmati Rice",
+    "shortDescription": "1509 variety steam basmati rice with natural white appearance and delicate aroma.\nSuited for everyday cooking and restaurant use.",
+    "specifications": [
+      "Grain Length (Raw): 7.90mm min",
+      "Grain Length (Cooked): 20mm min",
+      "Moisture: 12% max",
+      "Broken: 1% max",
+      "Whiteness: 40+ BU"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Achari Alu Dum - Blended",
+    "shortDescription": "Pickle-inspired spice blend for preparing tangy achari alu dum.\nRich in mustard, fennel, and nigella for authentic achari flavour.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "Flavor Profile: Pickle-Spiced",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Coffee",
+    "productName": "Arabica Cherry",
+    "shortDescription": "Natural processed Arabica coffee beans.\nOffers fruity flavor profile.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Processing: Natural",
+      "Bean Type: Arabica"
+    ],
+    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "hsCode": "090111",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Coffee",
+    "productName": "Arabica Parchment",
+    "shortDescription": "High-grade Arabica beans with mild acidity.\nPreferred for specialty coffee.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Processing: Washed",
+      "Bean Type: Arabica"
+    ],
+    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "hsCode": "090111",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Fruits",
+    "productName": "Bananas",
+    "shortDescription": "Fresh Cavendish bananas with uniform size.\nLong shelf life suitable for export.",
+    "specifications": [
+      "Length: 18cm+",
+      "Ripeness: Green",
+      "Shelf Life: 2-3 weeks"
+    ],
+    "packagingOption": ["7kg", "13kg", "18kg"],
+    "hsCode": "080390",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Biryani Pulav - Blended",
+    "shortDescription": "Classic biryani and pulav masala blend with whole and ground spices.\nSuitable for household and commercial rice preparations.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Biryani Pulav Masala - Blended",
+    "shortDescription": "Expertly crafted spice blend for fragrant biryanis and pulavs.\nBalanced mix of whole and powdered spices for authentic flavour.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Black Cardamom - Whole",
+    "shortDescription": "Dried whole black cardamom pods with smoky camphor-like aroma.\nEssential for biryanis, curries, and spice masala preparations.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Volatile Oil: 2% min",
+      "Admixture: 2% max",
+      "Color: Dark Brown to Black"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "090831",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Black Cumin (Kala Jeera) - Whole",
+    "shortDescription": "Aromatic black cumin seeds with distinctively rich and earthy flavour.\nUsed in Kashmiri cooking, breads, and traditional spice preparations.",
+    "specifications": [
+      "Moisture: 9% max",
+      "Volatile Oil: 1% min",
+      "Admixture: 2% max",
+      "Color: Dark Brown to Black"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "090920",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Black Mustard - Whole",
+    "shortDescription": "Small whole black mustard seeds with intense pungency and flavour.\nPreferred for South Indian tempering and traditional pickles.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 40% min",
+      "Admixture: 2% max",
+      "Color: Black"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "120910",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Black Pepper (Kali Mirch) - Powder",
+    "shortDescription": "Freshly ground black pepper powder with sharp heat and aromatic piperine.\nWidely used in seasonings, sauces, and processed food manufacturing.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Piperine: 3.5% min",
+      "Color: Dark Grey to Black",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "090412",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Black Pepper (Kali Mirch) - Whole",
+    "shortDescription": "Bold whole black peppercorns with sharp heat and robust aroma.\nUsed in seasoning, grinding, pickling, and spice blends.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Piperine: 4% min",
+      "Admixture: 1% max",
+      "Color: Black to Dark Brown"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "090411",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Black Salt (Kala Namak) - Powder",
+    "shortDescription": "Traditional Indian black salt powder with distinctive sulphurous aroma.\nUsed in chaats, chutneys, ayurvedic medicine, and vegan egg replacements.",
+    "specifications": [
+      "NaCl: 90% min",
+      "Moisture: 1% max",
+      "Color: Dark Purple to Black",
+      "Mesh Size: 40–80 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "250100",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Caraway Seeds - Whole",
+    "shortDescription": "Whole caraway seeds with warm anise-like flavour and subtle earthiness.\nUsed in European breads, cheeses, liqueurs, and herbal medicine.",
+    "specifications": [
+      "Moisture: 9% max",
+      "Volatile Oil: 3% min",
+      "Admixture: 2% max",
+      "Color: Dark Brown"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "hsCode": "090910",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Carom (Ajwain) - Whole",
+    "shortDescription": "Pungent whole carom (ajwain) seeds with thymol-rich essential oil.\nUsed in traditional Indian cooking, herbal medicine, and digestive products.",
+    "specifications": [
+      "Moisture: 9% max",
+      "Thymol: 35% min",
+      "Admixture: 2% max",
+      "Color: Grey-Green"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "090940",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Chaat Masala - Blended",
+    "shortDescription": "Tangy, spicy chaat masala with black salt and amchur at its core.\nUsed as a seasoning for chaats, salads, fruits, and street snacks.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "Flavor Profile: Tangy-Spicy",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Chatpata Alu Dum - Blended",
+    "shortDescription": "Zesty masala blend designed specifically for dum-style potato preparations.\nDelivers the tangy, spicy profile of classic chatpata alu dum.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "Flavor Profile: Tangy-Spicy",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Chicken Masala - Blended",
+    "shortDescription": "Aromatic spice blend tailored for chicken curries and grilled preparations.\nPerfect balance of heat, tang, and depth for authentic chicken dishes.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Chilli Whole - Whole",
+    "shortDescription": "Premium whole dried red chillies with bright colour and strong pungency.\nSuitable for processing, oil extraction, and culinary use.",
+    "specifications": [
+      "Moisture: 10% max",
+      "ASTA Color: 80 min",
+      "Pungency: High",
+      "Color: Bright Red"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "090421",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Chole Masala - Blended",
+    "shortDescription": "Traditional tangy and spicy masala blend crafted for chickpea dishes.\nBrings authentic Punjabi flavour to chole and other legume preparations.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Cinnamon - Whole",
+    "shortDescription": "Aromatic whole cinnamon quills with warm sweet-spicy flavour.\nWidely used in baking, beverages, curries, and confectionery.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Volatile Oil: 1% min",
+      "Color: Light to Dark Brown",
+      "Form: Quills/Sticks"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "090611",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Classic Steam Basmati Rice",
+    "shortDescription": "Carefully sorted and processed classic steam basmati rice.\nConsistent quality suitable for retail and foodservice sectors.",
+    "specifications": [
+      "Average Grain Length: 7.70mm min",
+      "Moisture: 12% max",
+      "Broken: 2% max",
+      "Foreign Matter: 0.1% max"
+    ],
+    "packagingOption": [
+      "1kg",
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Clove - Whole",
+    "shortDescription": "High-quality whole cloves with rich eugenol content and strong aroma.\nUsed in spice blends, oral care products, and perfumery.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Volatile Oil: 15% min",
+      "Eugenol: 70% min",
+      "Color: Dark Brown"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "090700",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Coriander (Dhania) - Powder",
+    "shortDescription": "Freshly ground coriander seed powder with mild citrusy and earthy flavour.\nKey ingredient in curry powders, spice mixes, and meat seasonings.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 0.4% min",
+      "Color: Light Brown",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
+    "hsCode": "090950",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Cucumbers",
+    "shortDescription": "Fresh cucumbers with crisp texture.\nIdeal for salads and export markets.",
+    "specifications": [
+      "Length: 15-20cm",
+      "Color: Green",
+      "Shelf Life: 10 days"
+    ],
+    "packagingOption": ["5kg", "10kg", "Cartons"],
+    "hsCode": "070700",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Cumin (Jeera) - Powder",
+    "shortDescription": "Fine cumin powder with warm, nutty and peppery flavour profile.\nEssential for Indian, Middle Eastern, and Latin American cuisines.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 2% min",
+      "Color: Brown",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
+    "hsCode": "090920",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Cumin (Jeera) - Whole",
+    "shortDescription": "Premium whole cumin seeds with strong aroma and essential oil content.\nSuitable for direct use and spice processing.",
+    "specifications": [
+      "Moisture: 9% max",
+      "Volatile Oil: 2.5% min",
+      "Admixture: 2% max",
+      "Color: Greenish Brown"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "090920",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Dark Red Onions – Jumbo (Institutional)",
+    "shortDescription": "Jumbo-sized dark red onions for institutional and food processing use.\nLarge bulbs with high pungency and extended shelf life.",
+    "specifications": [
+      "Size: 60mm+ diameter",
+      "Color: Dark Red",
+      "Moisture: 86% max",
+      "Dry Matter: 14% min",
+      "Foreign Matter: 0.5% max"
+    ],
+    "packagingOption": [
+      "10kg",
+      "20kg",
+      "25kg",
+      "50kg",
+      "Mesh Bags",
+      "Jute Bags"
+    ],
+    "hsCode": "070310",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Dark Red Onions – Medium (General Purpose)",
+    "shortDescription": "Medium-sized dark red onions suitable for general cooking and export.\nUniform shape and strong flavour preferred by retail and wholesale markets.",
+    "specifications": [
+      "Size: 40–60mm diameter",
+      "Color: Dark Red",
+      "Moisture: 86% max",
+      "Dry Matter: 14% min",
+      "Foreign Matter: 0.5% max"
+    ],
+    "packagingOption": [
+      "10kg",
+      "20kg",
+      "25kg",
+      "50kg",
+      "Mesh Bags",
+      "Jute Bags"
+    ],
+    "hsCode": "070310",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Dark Red Onions – Small (Pickle Grade)",
+    "shortDescription": "Small-sized dark red onions with intense flavour, perfect for pickling.\nSourced from prime growing regions with tight bulbs.",
+    "specifications": [
+      "Size: 20–40mm diameter",
+      "Color: Dark Red",
+      "Moisture: 86% max",
+      "Dry Matter: 14% min",
+      "Foreign Matter: 0.5% max"
+    ],
+    "packagingOption": [
+      "10kg",
+      "20kg",
+      "25kg",
+      "50kg",
+      "Mesh Bags",
+      "Jute Bags"
+    ],
+    "hsCode": "070310",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Bathua Leaves Flakes",
+    "shortDescription": "Traditional bathua (chenopodium) leaves dehydrated into nutrient-rich flakes.\nUsed in regional cuisines, health supplements, and herbal formulations.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Dark Green",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Beetroot Flakes",
+    "shortDescription": "Vibrant deep-red beetroot flakes dehydrated with nutrients preserved.\nUsed in natural food colouring, health foods, and beverages.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Deep Red/Purple",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Bittergourd Flakes",
+    "shortDescription": "Bitter gourd (karela) dehydrated into flakes for medicinal and culinary use.\nPopular in herbal supplements, diabetic health products, and cooking.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Green to Dark Green",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Cabbage Leaves Flakes",
+    "shortDescription": "Crisp dehydrated cabbage leaf flakes with mild natural flavour.\nUsed in instant noodles, soups, and salad mixes.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Light Green to White",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Capsicum Flakes",
+    "shortDescription": "Red and green capsicum dehydrated into uniform flakes for food processing.\nUsed in seasonings, pizza toppings, and ready-to-eat products.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Red/Green",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Carrot Flakes",
+    "shortDescription": "Vibrant orange dehydrated carrot flakes with natural sweetness intact.\nSuitable for soups, noodles, ready meals, and pet food.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Orange",
+      "Form: Flakes/Diced",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Cauliflower Flakes",
+    "shortDescription": "Tender cauliflower florets dehydrated into convenient flakes.\nPopular in soups, snack mixes, and vegetable seasonings.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: White to Cream",
+      "Form: Flakes/Florets",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Chopped Spring Onion",
+    "shortDescription": "Freshly chopped spring onions dehydrated for maximum shelf life.\nUsed in soups, seasonings, noodle packets, and garnishing.",
+    "specifications": [
+      "Moisture: 7% max",
+      "Color: Green & White",
+      "Form: Chopped",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Coriander Leaves",
+    "shortDescription": "Freshly harvested coriander leaves dehydrated at low temperature.\nWidely used in spice blends, sauces, and culinary seasonings.",
+    "specifications": [
+      "Moisture: 7% max",
+      "Color: Green",
+      "Form: Whole/Crushed Leaves",
+      "Volatile Oil: 0.3% min"
+    ],
+    "packagingOption": [
+      "1kg",
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Curry Leaves",
+    "shortDescription": "Aromatic curry leaves dehydrated to preserve fragrance and essential oils.\nUsed in South Asian cooking, spice blends, and herbal products.",
+    "specifications": [
+      "Moisture: 7% max",
+      "Color: Green to Olive",
+      "Form: Whole Leaves",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "1kg",
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
+    "hsCode": "121190",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Eggplant (Brinjal) Flakes",
+    "shortDescription": "Dehydrated brinjal slices with characteristic smoky and earthy notes.\nSuitable for curry bases, snack processing, and food blending.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Purple to Dark Brown",
+      "Form: Flakes/Slices",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Ginger Flakes",
+    "shortDescription": "Sun-dried and mechanically dehydrated ginger flakes with strong pungency.\nUsed in spice blends, soups, teas, and nutraceuticals.",
+    "specifications": [
+      "Moisture: 7% max",
+      "Volatile Oil: 1.5% min",
+      "Color: Light Yellow to Buff",
+      "Form: Flakes"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "091010",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Gooseberry (Amla) Flakes",
+    "shortDescription": "Dehydrated Indian gooseberry (Amla) flakes rich in Vitamin C.\nIdeal for nutraceuticals, herbal products, and culinary applications.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Vitamin C: High",
+      "Color: Light Green to Brown",
+      "Form: Flakes"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "081090",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Green Beans Chopped",
+    "shortDescription": "Fresh green beans chopped and dehydrated to retain colour and nutrition.\nIdeal for ready meals, soup mixes, and food processing.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Green",
+      "Form: Chopped Pieces",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Green Chilli Flakes",
+    "shortDescription": "Green chillies dehydrated into pungent flakes for culinary use.\nSuitable for spice blends, marinades, and food manufacturing.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Green",
+      "Pungency: High",
+      "Form: Flakes"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "090422",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Mustard Greens (Sarson) Flakes",
+    "shortDescription": "Dehydrated mustard leaf flakes with a mildly pungent flavour.\nUsed in traditional recipes, spice mixes, and food processing.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Dark Green",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Radish & Leaves Flakes",
+    "shortDescription": "Radish roots and leaves dehydrated together into flavourful flakes.\nUsed in traditional cooking, spice blends, and nutraceuticals.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: White/Green",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Raw Jackfruit Flakes",
+    "shortDescription": "Tender raw jackfruit dehydrated into flakes, retaining natural flavour.\nUsed in ready-to-cook meals, vegan products, and snack manufacturing.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Cream to Light Yellow",
+      "Form: Flakes",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "081090",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Spinach Leaves",
+    "shortDescription": "Fresh spinach leaves dehydrated to preserve natural green colour and nutrients.\nWidely used in soups, pasta, snacks, and health foods.",
+    "specifications": [
+      "Moisture: 7% max",
+      "Color: Green",
+      "Form: Whole/Flaked Leaves",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Tomato Slices",
+    "shortDescription": "Ripe tomatoes dehydrated into firm slices with concentrated flavour.\nUsed in pizza toppings, pasta sauces, snacks, and seasoning blends.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Color: Deep Red",
+      "Form: Slices",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "071290",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Dehydrated-Vegetables",
+    "productName": "Dehydrated Turmeric Flakes",
+    "shortDescription": "Dehydrated turmeric root flakes with high curcumin content.\nSuitable for spice processing, herbal supplements, and natural dyes.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Curcumin: 3% min",
+      "Color: Deep Yellow-Orange",
+      "Form: Flakes"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "hsCode": "091030",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Dry Ginger (Sonth) - Powder",
+    "shortDescription": "Fine dry ginger powder with concentrated heat and warm spicy aroma.\nUsed in masala blends, baked goods, beverages, and herbal formulations.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 1.5% min",
+      "Color: Buff to Light Yellow",
+      "Mesh Size: 60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "091010",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Dry Ginger - Whole",
+    "shortDescription": "Sun-dried whole ginger rhizomes with concentrated pungency.\nSuitable for grinding, herbal extractions, and culinary processing.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 1.5% min",
+      "Gingerols: High",
+      "Color: Buff to Light Brown"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "091010",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Dry Mango (Amchur) - Powder",
+    "shortDescription": "Tangy amchur powder ground from sun-dried raw green mangoes.\nUsed as a souring agent in chutneys, chaats, and marinades.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Acidity: High",
+      "Color: Beige to Light Brown",
+      "Mesh Size: 40 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "200899",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Fennel (Sounf) - Powder",
+    "shortDescription": "Ground fennel seed powder with sweet anise-like aroma.\nUsed in spice blends, digestive preparations, and seasoning mixes.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 1% min",
+      "Color: Light Tan",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "090960",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Fennel (Sounf) - Whole",
+    "shortDescription": "Aromatic whole fennel seeds with sweet, anise-like flavour.\nUsed in spice blends, herbal teas, and mouth fresheners.",
+    "specifications": [
+      "Moisture: 9% max",
+      "Volatile Oil: 1.5% min",
+      "Admixture: 2% max",
+      "Color: Greenish Yellow"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "090960",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Fenugreek (Methi) - Powder",
+    "shortDescription": "Finely milled fenugreek seed powder with mild bitter maple-like flavour.\nUsed in curry powders, spice blends, and health supplements.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 0.02% min",
+      "Color: Yellow-Beige",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "121190",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Fenugreek (Methi) - Whole",
+    "shortDescription": "Whole fenugreek seeds with characteristic bitter, maple-like aroma.\nWidely used in curry powders, pickles, and medicinal preparations.",
+    "specifications": [
+      "Moisture: 9% max",
+      "Volatile Oil: 0.02% min",
+      "Admixture: 2% max",
+      "Color: Yellow to Amber"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "121190",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Fish Masala - Blended",
+    "shortDescription": "Specially formulated coastal-style masala blend for fish and seafood dishes.\nBalanced heat and tang complement the natural flavour of seafood.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Garam Masala - Blended",
+    "shortDescription": "Aromatic blend of warm spices ground to a fine powder.\nEssential finishing spice for curries, biryanis, and North Indian dishes.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Ginger Essential Oil",
+    "shortDescription": "Steam-distilled essential oil from fresh ginger roots with sharp, warm aroma.\nUsed in aromatherapy, food flavouring, cosmetics, and pharmaceuticals.",
+    "specifications": [
+      "Specific Gravity: 0.870–0.882",
+      "Refractive Index: 1.488–1.494",
+      "Gingerols: High",
+      "Appearance: Pale Yellow Liquid"
+    ],
+    "packagingOption": [
+      "1kg",
+      "5kg",
+      "10kg",
+      "25kg",
+      "Aluminium Drums",
+      "Glass Bottles"
+    ],
+    "hsCode": "330124",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Grand Dubar – 1121 Basmati",
+    "shortDescription": "Grand Dubar grade 1121 basmati rice with double-length classification.\nKnown for consistent grain quality and rich natural fragrance.",
+    "specifications": [
+      "Grain Length: 8.30mm min",
+      "Moisture: 12% max",
+      "Broken: 1% max",
+      "Sortex Cleaned: Yes"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Fruits",
+    "productName": "Grapes",
+    "shortDescription": "Fresh seedless grapes with high sweetness.\nExport quality with careful packing.",
+    "specifications": ["Variety: Thompson", "Brix: 16+", "Shelf Life: 15 days"],
+    "packagingOption": ["4kg", "5kg", "Cartons"],
+    "hsCode": "080610",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Green Cardamom - Whole",
+    "shortDescription": "Premium whole green cardamom pods with intense floral and minty aroma.\nEssential in Indian sweets, teas, and gourmet spice blends.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Volatile Oil: 4% min",
+      "Color: Green",
+      "Size: Bold Grade"
+    ],
+    "packagingOption": [
+      "1kg",
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
+    "hsCode": "090831",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Green Chilies",
+    "shortDescription": "Fresh green chilies with high pungency.\nUsed widely in cooking and export markets.",
+    "specifications": [
+      "Color: Green",
+      "Pungency: High",
+      "Shelf Life: 7-10 days"
+    ],
+    "packagingOption": ["5kg", "10kg", "Cartons"],
+    "hsCode": "070960",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Coffee",
+    "productName": "Instant/Soluble Coffee",
+    "shortDescription": "Convenient instant coffee with rich aroma and taste.\nAvailable in spray dried and freeze dried forms.",
+    "specifications": [
+      "Moisture: 4% max",
+      "Type: Spray/Freeze Dried",
+      "Solubility: 100%"
+    ],
+    "packagingOption": ["25kg Bulk", "1kg", "500g Retail"],
+    "hsCode": "210111",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "IR-36 Parboiled/Sella",
+    "shortDescription": "Medium grain parboiled rice for mass markets.\nStable quality and cost-effective option.",
+    "specifications": [
+      "Moisture: 14% max",
+      "Broken: 5% max",
+      "Grain Type: Medium"
+    ],
+    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "IR-64 Parboiled/Sella",
+    "shortDescription": "Popular non-basmati rice with high demand.\nStrong grain suitable for bulk consumption.",
+    "specifications": ["Moisture: 14% max", "Broken: 5% max", "Color: Golden"],
+    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Kashmiri Mirch (Chilli Powder) - Powder",
+    "shortDescription": "Vibrant deep-red Kashmiri chilli powder with mild heat and rich colour.\nPreferred for tandoori marinades, gravies, and colour-intensive dishes.",
+    "specifications": [
+      "Moisture: 10% max",
+      "ASTA Color Value: 120 min",
+      "Pungency: Mild",
+      "Mesh Size: 60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "090422",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Khaman Dhokla Mix - Blended",
+    "shortDescription": "Ready-to-use spice and flour blend for preparing traditional Khaman Dhokla.\nConvenient mix for quick authentic Gujarati snack preparation.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Blended Mix",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Kitchen King Masala - Blended",
+    "shortDescription": "Versatile all-purpose masala blend for everyday Indian cooking.\nAdds rich flavour to vegetables, paneer dishes, and gravies.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Mace (Javithri) - Whole",
+    "shortDescription": "Dried whole mace (the aril of nutmeg) with delicate warm spicy notes.\nUsed in premium spice blends, bakery items, and pharmaceutical formulations.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 10% min",
+      "Color: Orange to Red",
+      "Admixture: 1% max"
+    ],
+    "packagingOption": ["1kg", "5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "090820",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Fruits",
+    "productName": "Mangoes",
+    "shortDescription": "Premium Indian mangoes with rich sweetness.\nCarefully graded for export quality.",
+    "specifications": [
+      "Variety: Alphonso/Kesar",
+      "Size: 200-400g",
+      "Shelf Life: 10-15 days"
+    ],
+    "packagingOption": ["2kg", "5kg", "10kg"],
+    "hsCode": "080450",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Matta Rice White/Raw",
+    "shortDescription": "Traditional red rice rich in nutrients.\nPopular in Kerala and export markets.",
+    "specifications": ["Moisture: 14% max", "Broken: 5% max", "Color: Red"],
+    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Meat Masala - Blended",
+    "shortDescription": "Robust spice blend specially formulated for meat and poultry dishes.\nDelivers rich, deep flavour to curries, kebabs, and roasts.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Mini Dubar – 1121 Basmati",
+    "shortDescription": "Mini Dubar grade 1121 basmati rice with slightly shorter grain classification.\nAn economical premium option for mid-range retail.",
+    "specifications": [
+      "Grain Length: 7.90mm min",
+      "Moisture: 12% max",
+      "Broken: 2% max",
+      "Sortex Cleaned: Yes"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Mungra – 1121 Basmati",
+    "shortDescription": "Mungra grade 1121 basmati rice, a fine short-broken segment of basmati.\nSuitable for bulk catering and institutional supply.",
+    "specifications": [
+      "Grain Length: 5.00–7.00mm",
+      "Moisture: 12% max",
+      "Broken: 5% max"
+    ],
+    "packagingOption": ["25kg", "50kg", "PP Bags"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Mustard (Rai) - Powder",
+    "shortDescription": "Finely ground brown mustard powder with pungent, biting flavour.\nUsed in condiments, sauces, marinades, and spice blends.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Oil Content: 30% min",
+      "Color: Yellow-Beige",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "090910",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Mustard (Rai) - Whole",
+    "shortDescription": "Small whole black/brown mustard seeds with sharp pungent flavour.\nUsed in tempering, pickling, and mustard oil extraction.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 38% min",
+      "Admixture: 2% max",
+      "Color: Reddish Brown to Dark Brown"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "120910",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Mustard Seeds - Whole",
+    "shortDescription": "Whole mustard seeds sorted for uniform size and high oil content.\nSuitable for oil milling, tempering, and condiment production.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 38% min",
+      "Admixture: 2% max",
+      "Color: Brown to Black"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "120910",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Nigella Seeds Whole - Whole",
+    "shortDescription": "Whole nigella (kalonji/black seed) with distinctive peppery flavour.\nUsed in naan bread, pickles, and traditional herbal remedies.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 32% min",
+      "Thymoquinone: Present",
+      "Color: Matte Black"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "hsCode": "121190",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Nutmeg - Whole",
+    "shortDescription": "Whole dried nutmeg with warm, sweet-spicy aroma and high essential oil content.\nSuitable for grinding, food processing, and pharmaceutical use.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Volatile Oil: 7% min",
+      "Admixture: 1% max",
+      "Color: Brown"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "090810",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Onions",
+    "shortDescription": "Fresh onions with long shelf life.\nSuitable for export and bulk supply.",
+    "specifications": ["Size: 40-60mm", "Shelf Life: 30-45 days", "Color: Red"],
+    "packagingOption": ["10kg", "25kg", "Mesh Bags"],
+    "hsCode": "070310",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Panch Phoran - Whole",
+    "shortDescription": "Traditional Bengali five-spice blend of whole seeds.\nReady-to-temper mix of fenugreek, nigella, cumin, black mustard, and fennel.",
+    "specifications": [
+      "Moisture: 9% max",
+      "Blend Ratio: Equal Parts",
+      "Admixture: 2% max",
+      "Color: Mixed"
+    ],
+    "packagingOption": ["10kg", "25kg", "PP Bags", "Retail Packs Available"],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Pav Bhaji Masala - Blended",
+    "shortDescription": "Tangy and spicy masala blend for the iconic Mumbai street food pav bhaji.\nCreates the signature rich, buttery flavour profile of classic pav bhaji.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "Flavor Profile: Tangy-Spicy",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Fruits",
+    "productName": "Pomegranates",
+    "shortDescription": "Premium pomegranates with deep red arils.\nRich in taste and export quality.",
+    "specifications": [
+      "Variety: Bhagwa",
+      "Size: 250-400g",
+      "Shelf Life: 20 days"
+    ],
+    "packagingOption": ["3kg", "5kg", "10kg"],
+    "hsCode": "081090",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Ponni Parboiled",
+    "shortDescription": "South Indian variety with good cooking softness.\nPreferred for daily consumption.",
+    "specifications": [
+      "Moisture: 14% max",
+      "Broken: 5% max",
+      "Color: Light Golden"
+    ],
+    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Poppy Seeds (Posta) - Whole",
+    "shortDescription": "Tiny whole poppy seeds with mild nutty flavour and high oil content.\nUsed in bakery, confectionery, curries, and pharmaceutical applications.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 40% min",
+      "Admixture: 1% max",
+      "Color: Blue-Grey to Cream"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "hsCode": "121192",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Poppy Seeds - Whole",
+    "shortDescription": "Cleaned whole poppy seeds with nutty flavour and rich oil content.\nUsed in baked goods, condiments, and pharmaceutical applications.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 40% min",
+      "Admixture: 1% max",
+      "Color: Blue-Grey"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "hsCode": "121192",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Potatoes",
+    "shortDescription": "High-quality potatoes for table and processing.\nUniform size and good shelf life.",
+    "specifications": [
+      "Size: 45mm+",
+      "Variety: Chipsona",
+      "Shelf Life: 30 days"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg"],
+    "hsCode": "070190",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Premium Catering Rice",
+    "shortDescription": "Specially processed catering-grade basmati rice for high-volume food operations.\nConsistent cooking quality and excellent yield.",
+    "specifications": [
+      "Grain Type: Basmati",
+      "Moisture: 13% max",
+      "Broken: 5% max",
+      "Foreign Matter: 0.1% max"
+    ],
+    "packagingOption": ["25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Premium Colombo Quality Onions",
+    "shortDescription": "High-grade onions meeting Colombo export standards with superior shelf life.\nSorted and graded for premium international markets.",
+    "specifications": [
+      "Size: 45–65mm diameter",
+      "Color: Red",
+      "Dry Matter: 14% min",
+      "Shelf Life: 3–4 months",
+      "Sortex Cleaned: Yes"
+    ],
+    "packagingOption": ["10kg", "20kg", "25kg", "50kg", "Mesh Bags"],
+    "hsCode": "070310",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Premium Sella Basmati Rice",
+    "shortDescription": "High-grade premium sella basmati rice with exceptional elongation ratio.\nPerfect for hotel chains, restaurants, and premium exports.",
+    "specifications": [
+      "Average Grain Length: 8.00mm min",
+      "Moisture: 12% max",
+      "Broken: 1% max",
+      "Admixture: 1% max"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Premium Tibar – 1121 Basmati",
+    "shortDescription": "Triple-length Tibar grade 1121 basmati rice, a top-tier offering.\nCharacterised by uniformly long grains and superior aroma.",
+    "specifications": [
+      "Grain Length: 8.50mm min",
+      "Moisture: 11.5% max",
+      "Broken: 0.5% max",
+      "Sortex Cleaned: Yes",
+      "Admixture: 0.5% max"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Gift Packaging Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Punjabi Chhole - Blended",
+    "shortDescription": "Bold and robust Punjabi-style masala for authentic chole preparation.\nRich combination of dark spices for the signature deep-brown gravy.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "Flavor Profile: Bold-Spicy",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Pusa Basmati",
+    "shortDescription": "Economical basmati variety with decent aroma.\nSuitable for bulk export and domestic markets.",
+    "specifications": [
+      "Grain Length: 7.5mm+",
+      "Moisture: 12% max",
+      "Broken: 3% max"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Red Chilli (Lal Mirch) - Powder",
+    "shortDescription": "Finely ground red chilli powder with vibrant colour and strong heat.\nUsed in spice blends, curry powders, and seasoning applications.",
+    "specifications": [
+      "Moisture: 10% max",
+      "ASTA Color Value: 80 min",
+      "Pungency: High",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
+    "hsCode": "090422",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Coffee",
+    "productName": "Roasted Coffee Beans",
+    "shortDescription": "Fresh roasted coffee beans with rich aroma.\nAvailable in multiple roast profiles.",
+    "specifications": [
+      "Roast Level: Medium/Dark",
+      "Moisture: Low",
+      "Aroma: High"
+    ],
+    "packagingOption": ["250g", "500g", "1kg"],
+    "hsCode": "090121",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Coffee",
+    "productName": "Roasted Ground Coffee",
+    "shortDescription": "Finely ground roasted coffee for instant brewing.\nMaintains aroma and flavor consistency.",
+    "specifications": [
+      "Grind Size: Medium/Fine",
+      "Moisture: Low",
+      "Aroma: Strong"
+    ],
+    "packagingOption": ["250g", "500g", "1kg"],
+    "hsCode": "090121",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Coffee",
+    "productName": "Robusta Cherry",
+    "shortDescription": "Natural Robusta beans with high caffeine.\nUsed in instant coffee production.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Processing: Natural",
+      "Bean Type: Robusta"
+    ],
+    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "hsCode": "090111",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Coffee",
+    "productName": "Robusta Parchment",
+    "shortDescription": "Strong Robusta beans with bold flavor.\nUsed in espresso blends.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Processing: Washed",
+      "Bean Type: Robusta"
+    ],
+    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "hsCode": "090111",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Rock Salt (Sendha Namak) - Powder",
+    "shortDescription": "Finely ground natural rock salt (sendha namak) with clean mineral taste.\nUsed in vrat/fasting foods, Ayurvedic preparations, and seasoning.",
+    "specifications": [
+      "NaCl: 98% min",
+      "Moisture: 0.5% max",
+      "Color: White to Pink",
+      "Mesh Size: 40–80 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "250100",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Royal – 2nd Wand 1121 Basmati",
+    "shortDescription": "Second wand sorted 1121 basmati rice offering premium uniformity and clarity.\nIdeal for value-segment premium retail packs.",
+    "specifications": [
+      "Grain Length: 8.35mm min",
+      "Moisture: 12% max",
+      "Broken: 2% max",
+      "Sortex Cleaned: Yes"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Custom Branding Available"
+    ],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Sambhar Masala - Blended",
+    "shortDescription": "Authentic South Indian sambhar masala with lentil-friendly spice profile.\nEssential for traditional sambhar, rasam, and vegetable stews.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Form: Fine Blended Powder",
+      "No Artificial Colour",
+      "No Added Preservatives"
+    ],
+    "packagingOption": [
+      "100g",
+      "200g",
+      "500g",
+      "1kg",
+      "5kg",
+      "25kg",
+      "Retail & Bulk Available"
+    ],
+    "hsCode": "091099",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Sona Masoori White/Raw",
+    "shortDescription": "Lightweight aromatic rice for daily meals.\nLow starch and easy to digest.",
+    "specifications": [
+      "Moisture: 13% max",
+      "Broken: 3% max",
+      "Grain Type: Medium"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Star Anise - Whole",
+    "shortDescription": "Whole star anise with eight prominent petals and sweet anise flavour.\nUsed in Chinese cuisine, masala blends, and herbal medicines.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Volatile Oil: 8% min",
+      "Admixture: 2% max",
+      "Color: Reddish Brown"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "hsCode": "090930",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Rice",
+    "productName": "Swarna (Masuri)",
+    "shortDescription": "Widely consumed non-basmati rice variety.\nKnown for soft texture and affordability.",
+    "specifications": [
+      "Moisture: 14% max",
+      "Broken: 5% max",
+      "Grain Type: Medium"
+    ],
+    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "hsCode": "100630",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Tamarind Concentrate",
+    "shortDescription": "Pure tamarind pulp concentrated for consistent acidity and rich flavour.\nUsed in sauces, beverages, chutneys, and food processing.",
+    "specifications": [
+      "Brix: 65–70°",
+      "pH: 2.5–3.0",
+      "Color: Dark Brown",
+      "Acidity: High",
+      "No Added Preservatives"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Drums", "Aseptic Bags"],
+    "hsCode": "200899",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Vegetables",
+    "productName": "Tomatoes",
+    "shortDescription": "Fresh red tomatoes with firm texture.\nIdeal for export and local consumption.",
+    "specifications": ["Size: Medium", "Color: Red", "Shelf Life: 7-10 days"],
+    "packagingOption": ["5kg", "10kg", "Crates"],
+    "hsCode": "070200",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Turmeric (Haldi) - Powder",
+    "shortDescription": "Bright yellow turmeric powder with high curcumin content and earthy aroma.\nUsed in curry powders, cosmetics, nutraceuticals, and natural dyes.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Curcumin: 3% min",
+      "Color: Deep Yellow",
+      "Mesh Size: 60 mesh"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
+    "hsCode": "091030",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Turmeric Essential Oil",
+    "shortDescription": "Cold-pressed and steam-distilled turmeric essential oil with earthy warm notes.\nUsed in perfumery, Ayurvedic formulations, and natural cosmetics.",
+    "specifications": [
+      "Specific Gravity: 0.920–0.940",
+      "Color: Orange to Deep Yellow",
+      "Curcumin: Present",
+      "Appearance: Amber Liquid"
+    ],
+    "packagingOption": [
+      "1kg",
+      "5kg",
+      "10kg",
+      "25kg",
+      "Aluminium Drums",
+      "Glass Bottles"
+    ],
+    "hsCode": "330124",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "White Pepper (Safed Mirch) - Powder",
+    "shortDescription": "Mildly sharp white pepper powder from fully ripened dehusked peppercorns.\nPreferred in light-coloured sauces, dairy products, and fine dining.",
+    "specifications": [
+      "Moisture: 12% max",
+      "Piperine: 4% min",
+      "Color: Off-White to Cream",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "090412",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "White Sesame Seeds (Till) - Whole",
+    "shortDescription": "Hulled white sesame seeds with mild nutty flavour and high oil content.\nUsed in confectionery, bakery, oil extraction, and tahini production.",
+    "specifications": [
+      "Moisture: 6% max",
+      "Oil Content: 50% min",
+      "Admixture: 0.5% max",
+      "Color: White/Cream"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "hsCode": "120740",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Yellow Mustard (Pili Sarso) - Powder",
+    "shortDescription": "Mild yellow mustard powder with tangy flavour and high sinigrin content.\nIdeal for American-style mustard pastes and condiment manufacturing.",
+    "specifications": [
+      "Moisture: 10% max",
+      "Oil Content: 28% min",
+      "Color: Bright Yellow",
+      "Mesh Size: 40–60 mesh"
+    ],
+    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "hsCode": "090910",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Yellow Mustard (Pili Sarso) - Whole",
+    "shortDescription": "Whole yellow mustard seeds with mild pungency and high oil content.\nSuitable for condiment manufacturing, sauces, and oil extraction.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 35% min",
+      "Admixture: 2% max",
+      "Color: Yellow"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "hsCode": "120910",
+    "imageUrl": ""
+  },
+  {
+    "categoryName": "Spices",
+    "productName": "Yellow Mustard - Whole",
+    "shortDescription": "Bright yellow mustard seeds with mild heat and high sinigrin content.\nUsed in American-style mustard condiments and sauces.",
+    "specifications": [
+      "Moisture: 8% max",
+      "Oil Content: 35% min",
+      "Admixture: 2% max",
+      "Color: Yellow"
+    ],
+    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "hsCode": "120910",
+    "imageUrl": ""
+  }
+]

@@ -1,31 +1,36 @@
-import React from 'react';
-import { Routes, Route, useLocation } from 'react-router-dom';
-import Home from './Pages/Home';
-import About from './Pages/About';
-import Contact from './Pages/Contact';
-import Ourgallery from './Pages/Ourgallery';
-import Bloglists from './Pages/Bloglists';
-import Blogsingle from './Pages/Blogsingle';
-import Pricing from './Pages/Pricing';
-import Booknow from './Pages/Booknow';
-import Comingsoon from './Pages/Comingsoon';
-import Faq from './Pages/Faq';
-import Error from './Pages/Error';
-import Sponsers from './Pages/Sponsers';
-import Speakerlists from './Pages/Speakerlists';
-import Speakerdetail from './Pages/Speakerdetail';
-import Eventlists from './Pages/Eventlists';
-import Eventdetail from './Pages/Eventdetail';
-import Searchresult from './Pages/Searchresult';
-import Productlists from './Pages/Productlists';
-import Productsingle from './Pages/Productsingle';
-import Testimonials from './Pages/Testimonials';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
+import React from "react";
+import { Routes, Route, useLocation } from "react-router-dom";
+import Home from "./Pages/Home";
+import About from "./Pages/About";
+import Contact from "./Pages/Contact";
+import Ourgallery from "./Pages/Ourgallery";
+import Bloglists from "./Pages/Bloglists";
+import Blogsingle from "./Pages/Blogsingle";
+import Pricing from "./Pages/Pricing";
+import Booknow from "./Pages/Booknow";
+import Comingsoon from "./Pages/Comingsoon";
+import Faq from "./Pages/Faq";
+import Error from "./Pages/Error";
+import Sponsers from "./Pages/Sponsers";
+import Speakerlists from "./Pages/Speakerlists";
+import Speakerdetail from "./Pages/Speakerdetail";
+import Eventlists from "./Pages/Eventlists";
+import Eventdetail from "./Pages/Eventdetail";
+import Searchresult from "./Pages/Searchresult";
+import Productlists from "./Pages/Productlists";
+import Productsingle from "./Pages/Productsingle";
+import Testimonials from "./Pages/Testimonials";
+import Portfolio from "./Pages/Portfolio";
+import DigitalCatalogue from "./Pages/Catalogue";
+import Header from "./Components/Header";
+import Footer from "./Components/Footer";
 
 function App() {
   const location = useLocation();
-  const hideHeaderFooter = location.pathname === '/Comingsoon';
+  const hideHeaderFooter =
+    location.pathname === "/Comingsoon" ||
+    location.pathname === "/Portfolio" ||
+    location.pathname === "/DigitalCatalogue";
 
   return (
     <div>
@@ -51,6 +56,8 @@ function App() {
         <Route path="/Testimonials" element={<Testimonials />} />
         <Route path="/Bloglists" element={<Bloglists />} />
         <Route path="/Blogsingle" element={<Blogsingle />} />
+        <Route path="/Portfolio" element={<Portfolio />} />
+        <Route path="/DigitalCatalogue" element={<DigitalCatalogue />} />
       </Routes>
       {!hideHeaderFooter && <Footer />}
     </div>
