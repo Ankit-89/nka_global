@@ -160,7 +160,7 @@ function DigitalCatalogue() {
                     {`HS Code: ${product.hsCode}`}
                   </span>
                   <img
-                    src="https://images.unsplash.com/photo-1586201375761-83865001e31c?w=700&fit=crop"
+                    src={product.imageUrl}
                     alt={product.productName}
                   />
                   <div className="product-hover-overlay">

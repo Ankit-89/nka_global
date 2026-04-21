@@ -3039,10 +3039,6 @@ input:focus-visible {
   gap: 8px;
 }
 
-.product-main {
-  margin-top: 50px;
-}
-
 /* ── PRODUCT PAGINATION ── */
 .pagination {
   display: flex;

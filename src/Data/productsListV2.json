@@ -18,7 +18,7 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/1121 Parboiled Sella Basmati Rice.jpg"
   },
   {
     "categoryName": "Rice",
@@ -40,7 +40,7 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/1121 Steam Basmati Rice.jpg"
   },
   {
     "categoryName": "Rice",
@@ -61,7 +61,7 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/1509 Parboiled Sella Basmati Rice.jpg"
   },
   {
     "categoryName": "Rice",
@@ -83,7 +83,7 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/1509 Steam Basmati Rice.jpg"
   },
   {
     "categoryName": "Spices",
@@ -104,7 +104,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Achari Alu Dum - Blended.jpg"
   },
   {
     "categoryName": "Coffee",
@@ -115,9 +115,13 @@
       "Processing: Natural",
       "Bean Type: Arabica"
     ],
-    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "packagingOption": [
+      "30kg",
+      "60kg",
+      "Jute Bags"
+    ],
     "hsCode": "090111",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Arabica Cherry.jpg"
   },
   {
     "categoryName": "Coffee",
@@ -128,9 +132,13 @@
       "Processing: Washed",
       "Bean Type: Arabica"
     ],
-    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "packagingOption": [
+      "30kg",
+      "60kg",
+      "Jute Bags"
+    ],
     "hsCode": "090111",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Arabica Parchment.jpg"
   },
   {
     "categoryName": "Fruits",
@@ -141,9 +149,13 @@
       "Ripeness: Green",
       "Shelf Life: 2-3 weeks"
     ],
-    "packagingOption": ["7kg", "13kg", "18kg"],
+    "packagingOption": [
+      "7kg",
+      "13kg",
+      "18kg"
+    ],
     "hsCode": "080390",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Bananas.jpg"
   },
   {
     "categoryName": "Spices",
@@ -165,7 +177,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Biryani Pulav - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -187,7 +199,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Biryani Pulav Masala - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -199,9 +211,14 @@
       "Admixture: 2% max",
       "Color: Dark Brown to Black"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "090831",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Black Cardamom - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -213,9 +230,15 @@
       "Admixture: 2% max",
       "Color: Dark Brown to Black"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "090920",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Black Cumin (Kala Jeera) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -227,9 +250,15 @@
       "Admixture: 2% max",
       "Color: Black"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "120910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Black Mustard - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -241,9 +270,15 @@
       "Color: Dark Grey to Black",
       "Mesh Size: 40–60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "090412",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Black Pepper (Kali Mirch) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -255,9 +290,15 @@
       "Admixture: 1% max",
       "Color: Black to Dark Brown"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "090411",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Black Pepper (Kali Mirch) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -269,9 +310,14 @@
       "Color: Dark Purple to Black",
       "Mesh Size: 40–80 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "250100",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Black Salt (Kala Namak) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -283,9 +329,14 @@
       "Admixture: 2% max",
       "Color: Dark Brown"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags"
+    ],
     "hsCode": "090910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Caraway Seeds - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -297,9 +348,15 @@
       "Admixture: 2% max",
       "Color: Grey-Green"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "090940",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Carom (Ajwain) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -320,7 +377,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Chaat Masala - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -341,7 +398,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Chatpata Alu Dum - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -363,7 +420,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Chicken Masala - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -375,9 +432,15 @@
       "Pungency: High",
       "Color: Bright Red"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "090421",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Chilli Whole - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -399,7 +462,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Chole Masala - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -411,9 +474,14 @@
       "Color: Light to Dark Brown",
       "Form: Quills/Sticks"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "090611",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Cinnamon - Whole.jpg"
   },
   {
     "categoryName": "Rice",
@@ -434,7 +502,7 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Classic Steam Basmati Rice.jpg"
   },
   {
     "categoryName": "Spices",
@@ -446,9 +514,14 @@
       "Eugenol: 70% min",
       "Color: Dark Brown"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "090700",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Clove - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -469,7 +542,7 @@
       "Vacuum Packed"
     ],
     "hsCode": "090950",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Coriander (Dhania) - Powder.jpg"
   },
   {
     "categoryName": "Vegetables",
@@ -480,9 +553,13 @@
       "Color: Green",
       "Shelf Life: 10 days"
     ],
-    "packagingOption": ["5kg", "10kg", "Cartons"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "Cartons"
+    ],
     "hsCode": "070700",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Cucumbers.jpg"
   },
   {
     "categoryName": "Spices",
@@ -503,7 +580,7 @@
       "Vacuum Packed"
     ],
     "hsCode": "090920",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Cumin (Jeera) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -515,9 +592,15 @@
       "Admixture: 2% max",
       "Color: Greenish Brown"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "090920",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Cumin (Jeera) - Whole.jpg"
   },
   {
     "categoryName": "Vegetables",
@@ -539,7 +622,7 @@
       "Jute Bags"
     ],
     "hsCode": "070310",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dark Red Onions – Jumbo (Institutional).jpg"
   },
   {
     "categoryName": "Vegetables",
@@ -561,7 +644,7 @@
       "Jute Bags"
     ],
     "hsCode": "070310",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dark Red Onions – Medium (General Purpose).jpg"
   },
   {
     "categoryName": "Vegetables",
@@ -583,7 +666,7 @@
       "Jute Bags"
     ],
     "hsCode": "070310",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dark Red Onions – Small (Pickle Grade).jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -595,9 +678,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Bathua Leaves Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -609,9 +698,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Beetroot Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -623,9 +718,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Bittergourd Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -637,9 +738,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Cabbage Leaves Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -651,9 +758,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Capsicum Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -665,9 +778,15 @@
       "Form: Flakes/Diced",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Carrot Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -679,9 +798,15 @@
       "Form: Flakes/Florets",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Cauliflower Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -693,9 +818,15 @@
       "Form: Chopped",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Chopped Spring Onion.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -716,7 +847,7 @@
       "Vacuum Packed"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Coriander Leaves.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -737,7 +868,7 @@
       "Vacuum Packed"
     ],
     "hsCode": "121190",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Curry Leaves.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -749,9 +880,15 @@
       "Form: Flakes/Slices",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Eggplant (Brinjal) Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -763,9 +900,15 @@
       "Color: Light Yellow to Buff",
       "Form: Flakes"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "091010",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Ginger Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -777,9 +920,15 @@
       "Color: Light Green to Brown",
       "Form: Flakes"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "081090",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Gooseberry (Amla) Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -791,9 +940,15 @@
       "Form: Chopped Pieces",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Green Beans Chopped.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -805,9 +960,15 @@
       "Pungency: High",
       "Form: Flakes"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "090422",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Green Chilli Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -819,9 +980,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Mustard Greens (Sarson) Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -833,9 +1000,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Radish & Leaves Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -847,9 +1020,15 @@
       "Form: Flakes",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "081090",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Raw Jackfruit Flakes.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -861,9 +1040,15 @@
       "Form: Whole/Flaked Leaves",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Spinach Leaves.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -875,9 +1060,15 @@
       "Form: Slices",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "071290",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Tomato Slices.jpg"
   },
   {
     "categoryName": "Dehydrated-Vegetables",
@@ -889,9 +1080,15 @@
       "Color: Deep Yellow-Orange",
       "Form: Flakes"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "091030",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dehydrated Turmeric Flakes.jpg"
   },
   {
     "categoryName": "Spices",
@@ -903,9 +1100,15 @@
       "Color: Buff to Light Yellow",
       "Mesh Size: 60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "091010",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dry Ginger (Sonth) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -917,9 +1120,15 @@
       "Gingerols: High",
       "Color: Buff to Light Brown"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "091010",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dry Ginger - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -931,9 +1140,15 @@
       "Color: Beige to Light Brown",
       "Mesh Size: 40 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "200899",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Dry Mango (Amchur) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -945,9 +1160,15 @@
       "Color: Light Tan",
       "Mesh Size: 40–60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "090960",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Fennel (Sounf) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -959,9 +1180,15 @@
       "Admixture: 2% max",
       "Color: Greenish Yellow"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "090960",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Fennel (Sounf) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -973,9 +1200,15 @@
       "Color: Yellow-Beige",
       "Mesh Size: 40–60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "121190",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Fenugreek (Methi) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -987,9 +1220,15 @@
       "Admixture: 2% max",
       "Color: Yellow to Amber"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "121190",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Fenugreek (Methi) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1011,7 +1250,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Fish Masala - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1033,7 +1272,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Garam Masala - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1054,7 +1293,7 @@
       "Glass Bottles"
     ],
     "hsCode": "330124",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Ginger Essential Oil.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1074,16 +1313,24 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Grand Dubar – 1121 Basmati.jpg"
   },
   {
     "categoryName": "Fruits",
     "productName": "Grapes",
     "shortDescription": "Fresh seedless grapes with high sweetness.\nExport quality with careful packing.",
-    "specifications": ["Variety: Thompson", "Brix: 16+", "Shelf Life: 15 days"],
-    "packagingOption": ["4kg", "5kg", "Cartons"],
+    "specifications": [
+      "Variety: Thompson",
+      "Brix: 16+",
+      "Shelf Life: 15 days"
+    ],
+    "packagingOption": [
+      "4kg",
+      "5kg",
+      "Cartons"
+    ],
     "hsCode": "080610",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Grapes.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1104,7 +1351,7 @@
       "Vacuum Packed"
     ],
     "hsCode": "090831",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Green Cardamom - Whole.jpg"
   },
   {
     "categoryName": "Vegetables",
@@ -1115,9 +1362,13 @@
       "Pungency: High",
       "Shelf Life: 7-10 days"
     ],
-    "packagingOption": ["5kg", "10kg", "Cartons"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "Cartons"
+    ],
     "hsCode": "070960",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Green Chilies.jpg"
   },
   {
     "categoryName": "Coffee",
@@ -1128,9 +1379,13 @@
       "Type: Spray/Freeze Dried",
       "Solubility: 100%"
     ],
-    "packagingOption": ["25kg Bulk", "1kg", "500g Retail"],
+    "packagingOption": [
+      "25kg Bulk",
+      "1kg",
+      "500g Retail"
+    ],
     "hsCode": "210111",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Instant-Soluble Coffee.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1141,18 +1396,30 @@
       "Broken: 5% max",
       "Grain Type: Medium"
     ],
-    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "Bulk"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/IR-36 Parboiled-Sella.jpg"
   },
   {
     "categoryName": "Rice",
     "productName": "IR-64 Parboiled/Sella",
     "shortDescription": "Popular non-basmati rice with high demand.\nStrong grain suitable for bulk consumption.",
-    "specifications": ["Moisture: 14% max", "Broken: 5% max", "Color: Golden"],
-    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "specifications": [
+      "Moisture: 14% max",
+      "Broken: 5% max",
+      "Color: Golden"
+    ],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "Bulk"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/IR-64 Parboiled-Sella.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1164,9 +1431,15 @@
       "Pungency: Mild",
       "Mesh Size: 60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "090422",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Kashmiri Mirch (Chilli Powder) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1186,7 +1459,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Khaman Dhokla Mix - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1208,7 +1481,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Kitchen King Masala - Blended.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1220,9 +1493,15 @@
       "Color: Orange to Red",
       "Admixture: 1% max"
     ],
-    "packagingOption": ["1kg", "5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "1kg",
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "090820",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Mace (Javithri) - Whole.jpg"
   },
   {
     "categoryName": "Fruits",
@@ -1233,18 +1512,30 @@
       "Size: 200-400g",
       "Shelf Life: 10-15 days"
     ],
-    "packagingOption": ["2kg", "5kg", "10kg"],
+    "packagingOption": [
+      "2kg",
+      "5kg",
+      "10kg"
+    ],
     "hsCode": "080450",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Mangoes.jpg"
   },
   {
     "categoryName": "Rice",
     "productName": "Matta Rice White/Raw",
     "shortDescription": "Traditional red rice rich in nutrients.\nPopular in Kerala and export markets.",
-    "specifications": ["Moisture: 14% max", "Broken: 5% max", "Color: Red"],
-    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "specifications": [
+      "Moisture: 14% max",
+      "Broken: 5% max",
+      "Color: Red"
+    ],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "Bulk"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Matta Rice White-Raw.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1266,7 +1557,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Meat Masala - Blended.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1286,7 +1577,7 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Mini Dubar – 1121 Basmati.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1297,9 +1588,13 @@
       "Moisture: 12% max",
       "Broken: 5% max"
     ],
-    "packagingOption": ["25kg", "50kg", "PP Bags"],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "PP Bags"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Mungra – 1121 Basmati.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1311,9 +1606,15 @@
       "Color: Yellow-Beige",
       "Mesh Size: 40–60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "090910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Mustard (Rai) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1325,9 +1626,15 @@
       "Admixture: 2% max",
       "Color: Reddish Brown to Dark Brown"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "120910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Mustard (Rai) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1339,9 +1646,15 @@
       "Admixture: 2% max",
       "Color: Brown to Black"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "120910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Mustard Seeds - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1353,9 +1666,14 @@
       "Thymoquinone: Present",
       "Color: Matte Black"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags"
+    ],
     "hsCode": "121190",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Nigella Seeds Whole - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1367,18 +1685,31 @@
       "Admixture: 1% max",
       "Color: Brown"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "090810",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Nutmeg - Whole.jpg"
   },
   {
     "categoryName": "Vegetables",
     "productName": "Onions",
     "shortDescription": "Fresh onions with long shelf life.\nSuitable for export and bulk supply.",
-    "specifications": ["Size: 40-60mm", "Shelf Life: 30-45 days", "Color: Red"],
-    "packagingOption": ["10kg", "25kg", "Mesh Bags"],
+    "specifications": [
+      "Size: 40-60mm",
+      "Shelf Life: 30-45 days",
+      "Color: Red"
+    ],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "Mesh Bags"
+    ],
     "hsCode": "070310",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Onions.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1390,9 +1721,14 @@
       "Admixture: 2% max",
       "Color: Mixed"
     ],
-    "packagingOption": ["10kg", "25kg", "PP Bags", "Retail Packs Available"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Retail Packs Available"
+    ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Panch Phoran - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1414,7 +1750,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Pav Bhaji Masala - Blended.jpg"
   },
   {
     "categoryName": "Fruits",
@@ -1425,9 +1761,13 @@
       "Size: 250-400g",
       "Shelf Life: 20 days"
     ],
-    "packagingOption": ["3kg", "5kg", "10kg"],
+    "packagingOption": [
+      "3kg",
+      "5kg",
+      "10kg"
+    ],
     "hsCode": "081090",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Pomegranates.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1438,9 +1778,13 @@
       "Broken: 5% max",
       "Color: Light Golden"
     ],
-    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "Bulk"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Ponni Parboiled.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1452,9 +1796,14 @@
       "Admixture: 1% max",
       "Color: Blue-Grey to Cream"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags"
+    ],
     "hsCode": "121192",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Poppy Seeds (Posta) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1466,9 +1815,14 @@
       "Admixture: 1% max",
       "Color: Blue-Grey"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags"
+    ],
     "hsCode": "121192",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Poppy Seeds - Whole.jpg"
   },
   {
     "categoryName": "Vegetables",
@@ -1479,9 +1833,13 @@
       "Variety: Chipsona",
       "Shelf Life: 30 days"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg"
+    ],
     "hsCode": "070190",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Potatoes.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1493,9 +1851,14 @@
       "Broken: 5% max",
       "Foreign Matter: 0.1% max"
     ],
-    "packagingOption": ["25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Premium Catering Rice.jpg"
   },
   {
     "categoryName": "Vegetables",
@@ -1508,9 +1871,15 @@
       "Shelf Life: 3–4 months",
       "Sortex Cleaned: Yes"
     ],
-    "packagingOption": ["10kg", "20kg", "25kg", "50kg", "Mesh Bags"],
+    "packagingOption": [
+      "10kg",
+      "20kg",
+      "25kg",
+      "50kg",
+      "Mesh Bags"
+    ],
     "hsCode": "070310",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Premium Colombo Quality Onions.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1522,9 +1891,16 @@
       "Broken: 1% max",
       "Admixture: 1% max"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Premium Sella Basmati Rice.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1545,7 +1921,7 @@
       "Gift Packaging Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Premium Tibar – 1121 Basmati.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1567,7 +1943,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Punjabi Chhole - Blended.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1578,9 +1954,13 @@
       "Moisture: 12% max",
       "Broken: 3% max"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Pusa Basmati.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1601,7 +1981,7 @@
       "Vacuum Packed"
     ],
     "hsCode": "090422",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Red Chilli (Lal Mirch) - Powder.jpg"
   },
   {
     "categoryName": "Coffee",
@@ -1612,9 +1992,13 @@
       "Moisture: Low",
       "Aroma: High"
     ],
-    "packagingOption": ["250g", "500g", "1kg"],
+    "packagingOption": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
     "hsCode": "090121",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Roasted Coffee Beans.jpg"
   },
   {
     "categoryName": "Coffee",
@@ -1625,9 +2009,13 @@
       "Moisture: Low",
       "Aroma: Strong"
     ],
-    "packagingOption": ["250g", "500g", "1kg"],
+    "packagingOption": [
+      "250g",
+      "500g",
+      "1kg"
+    ],
     "hsCode": "090121",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Roasted Ground Coffee.jpg"
   },
   {
     "categoryName": "Coffee",
@@ -1638,9 +2026,13 @@
       "Processing: Natural",
       "Bean Type: Robusta"
     ],
-    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "packagingOption": [
+      "30kg",
+      "60kg",
+      "Jute Bags"
+    ],
     "hsCode": "090111",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Robusta Cherry.jpg"
   },
   {
     "categoryName": "Coffee",
@@ -1651,9 +2043,13 @@
       "Processing: Washed",
       "Bean Type: Robusta"
     ],
-    "packagingOption": ["30kg", "60kg", "Jute Bags"],
+    "packagingOption": [
+      "30kg",
+      "60kg",
+      "Jute Bags"
+    ],
     "hsCode": "090111",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Robusta Parchment.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1665,9 +2061,14 @@
       "Color: White to Pink",
       "Mesh Size: 40–80 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "250100",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Rock Salt (Sendha Namak) - Powder.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1687,7 +2088,7 @@
       "Custom Branding Available"
     ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Royal – 2nd Wand 1121 Basmati.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1709,7 +2110,7 @@
       "Retail & Bulk Available"
     ],
     "hsCode": "091099",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Sambhar Masala - Blended.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1720,9 +2121,13 @@
       "Broken: 3% max",
       "Grain Type: Medium"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Sona Masoori White-Raw.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1734,9 +2139,14 @@
       "Admixture: 2% max",
       "Color: Reddish Brown"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags"
+    ],
     "hsCode": "090930",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Star Anise - Whole.jpg"
   },
   {
     "categoryName": "Rice",
@@ -1747,9 +2157,13 @@
       "Broken: 5% max",
       "Grain Type: Medium"
     ],
-    "packagingOption": ["25kg", "50kg", "Bulk"],
+    "packagingOption": [
+      "25kg",
+      "50kg",
+      "Bulk"
+    ],
     "hsCode": "100630",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Swarna (Masuri).jpg"
   },
   {
     "categoryName": "Spices",
@@ -1762,18 +2176,32 @@
       "Acidity: High",
       "No Added Preservatives"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "HDPE Drums", "Aseptic Bags"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "HDPE Drums",
+      "Aseptic Bags"
+    ],
     "hsCode": "200899",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Tamarind Concentrate.jpg"
   },
   {
     "categoryName": "Vegetables",
     "productName": "Tomatoes",
     "shortDescription": "Fresh red tomatoes with firm texture.\nIdeal for export and local consumption.",
-    "specifications": ["Size: Medium", "Color: Red", "Shelf Life: 7-10 days"],
-    "packagingOption": ["5kg", "10kg", "Crates"],
+    "specifications": [
+      "Size: Medium",
+      "Color: Red",
+      "Shelf Life: 7-10 days"
+    ],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "Crates"
+    ],
     "hsCode": "070200",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Tomatoes.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1794,7 +2222,7 @@
       "Vacuum Packed"
     ],
     "hsCode": "091030",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Turmeric (Haldi) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1815,7 +2243,7 @@
       "Glass Bottles"
     ],
     "hsCode": "330124",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Turmeric Essential Oil.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1827,9 +2255,15 @@
       "Color: Off-White to Cream",
       "Mesh Size: 40–60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "090412",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/White Pepper (Safed Mirch) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1841,9 +2275,14 @@
       "Admixture: 0.5% max",
       "Color: White/Cream"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags"
+    ],
     "hsCode": "120740",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/White Sesame Seeds (Till) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1855,9 +2294,15 @@
       "Color: Bright Yellow",
       "Mesh Size: 40–60 mesh"
     ],
-    "packagingOption": ["5kg", "10kg", "25kg", "PP Bags", "Vacuum Packed"],
+    "packagingOption": [
+      "5kg",
+      "10kg",
+      "25kg",
+      "PP Bags",
+      "Vacuum Packed"
+    ],
     "hsCode": "090910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Yellow Mustard (Pili Sarso) - Powder.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1869,9 +2314,15 @@
       "Admixture: 2% max",
       "Color: Yellow"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags", "Jute Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags",
+      "Jute Bags"
+    ],
     "hsCode": "120910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Yellow Mustard (Pili Sarso) - Whole.jpg"
   },
   {
     "categoryName": "Spices",
@@ -1883,8 +2334,13 @@
       "Admixture: 2% max",
       "Color: Yellow"
     ],
-    "packagingOption": ["10kg", "25kg", "50kg", "PP Bags"],
+    "packagingOption": [
+      "10kg",
+      "25kg",
+      "50kg",
+      "PP Bags"
+    ],
     "hsCode": "120910",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/products/Yellow Mustard - Whole.jpg"
   }
 ]
