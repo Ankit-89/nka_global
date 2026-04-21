@@ -17,21 +17,21 @@ function Contact() {
                             <div className="col-lg-4 col-md-5">
                                 <div className="contact-event-info p-8 text-white h-100 rounded bg-pink">
                                     <div className="event-venue pb-5">
-                                        <h5 className="text-white pb-2">EVENT VENUE:</h5>
-                                        <p className="m-0">Galleria mall conference center</p>
+                                        <h5 className="text-white pb-2">ORIGIN:</h5>
+                                        <p className="m-0">India</p>
                                     </div>
                                     <div className="address pb-5">
                                         <h5 className="text-white pb-2">ADDRESS:</h5>
-                                        <p className="m-0">19 By Pass NR, Bali, Indonesia, BC 22196</p>
+                                        <p className="m-0">Delhi, India-110032</p>
                                     </div>
                                     <div className="reception-info pb-5">
-                                        <h5 className="text-white pb-2">RECEPTION INFO:</h5>
-                                        <p className="m-0">Booking: (+62) 1919-2020</p>
+                                        <h5 className="text-white pb-2">TELEPHONE:</h5>
+                                        <p className="m-0">Phone: (+91) 921-199-3105</p>
                                     </div>
                                     <div className="ticket-info pb-5">
-                                        <h5 className="text-white pb-2">Ticket INFO:</h5>
-                                        <p className="m-0">Booking: (+62) 1919-2020</p>
-                                        <p className="m-0">Email: NKA Global Exports@mail.com</p>
+                                        <h5 className="text-white pb-2">WHATSAPP / EMAIL:</h5>
+                                        <p className="m-0">Whatsapp: (+91) 921-199-3105</p>
+                                        <p className="m-0">Email: info@nkaglobalexports.com</p>
                                     </div>
                                     <div className="direction-link">
                                         <a>Get Directions</a>
@@ -41,8 +41,8 @@ function Contact() {
                             <div className="col-lg-8 col-md-7">
                                 <div className="contact-form">
                                     <div className="form-title mb-4">
-                                        <h2 className="mb-1">Drop a <span className="pink">line</span></h2>
-                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                        <h2 className="mb-1">Contact <span className="pink">Us</span></h2>
+                                        <p>Get in touch with us for any inquiries—we’re here to help.</p>
                                     </div>
                                     <div className="form">
                                         <Contactform />
@@ -51,7 +51,7 @@ function Contact() {
                             </div>
                         </div>
                         <div className="map-direction mt-5">
-                            <iframe height="400" className="rounded w-100" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=+(mangal%20bazar)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d7000.808679005676!2d77.283229!3d28.677549!3m2!1i1024!2i768!4f13.1!2m1!1sH-12%20P%20Block%2C%20Panchshell%20Park%2C%20Shahdara%20New%20Delhi%2C%20Delhi%2C%20110032!5e0!3m2!1sen!2sin!4v1762678668078!5m2!1sen!2sin" width="100%" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
