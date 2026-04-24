@@ -1,6 +1,6 @@
 import React, { useState, useRef, useMemo } from "react";
-import Breadcrumb from '../Components/Breadcrumb'
-import Pagehelmet from '../Components/Pagehelmet'
+import Breadcrumb from "../Components/Breadcrumb";
+import Pagehelmet from "../Components/Pagehelmet";
 import productsList from "../Data/productsListV2.json";
 
 const WA_NUMBER = "919211993105"; // ← your business WhatsApp number
@@ -54,13 +54,64 @@ function ProductListingPage() {
     setCurrentPage(1);
   };
 
+  const getPagination = () => {
+    const pages = [];
+
+    const isMobile = window.innerWidth < 600;
+    const maxVisible = isMobile ? 3 : 5;
+
+    let start = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+    let end = start + maxVisible - 1;
+
+    if (end > totalPages) {
+      end = totalPages;
+      start = Math.max(1, end - maxVisible + 1);
+    }
+
+    // Always show first page
+    if (start > 1) {
+      pages.push(
+        <button key={1} onClick={() => setCurrentPage(1)}>
+          1
+        </button>,
+      );
+      if (start > 2) pages.push(<span key="start-ellipsis">...</span>);
+    }
+
+    // Middle pages
+    for (let i = start; i <= end; i++) {
+      pages.push(
+        <button
+          key={i}
+          onClick={() => setCurrentPage(i)}
+          className={currentPage === i ? "active" : ""}
+        >
+          {i}
+        </button>,
+      );
+    }
+
+    // Always show last page
+    if (end < totalPages) {
+      if (end < totalPages - 1) pages.push(<span key="end-ellipsis">...</span>);
+
+      pages.push(
+        <button key={totalPages} onClick={() => setCurrentPage(totalPages)}>
+          {totalPages}
+        </button>,
+      );
+    }
+
+    return pages;
+  };
+
   return (
     <div>
       {/* Header */}
-       <Pagehelmet pageTitle="Product Lists" />
-            <Breadcrumb title="Product Lists" />
+      <Pagehelmet pageTitle="Product Lists" />
+      <Breadcrumb title="Product Lists" />
 
-      <section className="products-section" id="products">
+       <section className="catalogue-section" id="products">
         <div className="product-main">
           <div className="section-header">
             <div className="section-label">Our Catalogue</div>
@@ -115,74 +166,50 @@ function ProductListingPage() {
           <div className="products-grid" id="productsGrid">
             {currentProducts.map((product, index) => (
               <div
-                className="product-card"
+                className="product-card horizontal"
                 data-category={product.categoryName.toLowerCase()}
                 key={index}
               >
+                {/* LEFT SIDE IMAGE */}
                 <div className="product-img-wrap">
                   <span className="product-badge badge-rare">
                     {`HS Code: ${product.hsCode}`}
                   </span>
                   <img src={product.imageUrl} alt={product.productName} />
-                  <div className="product-hover-overlay">
-                    <div className="product-hover-content">
-                      <div className="product-specs-mini">
-                        <span className="spec-chip">
-                          {product.specifications[0]}
-                        </span>
-                        <span className="spec-chip">
-                          {product.specifications[1]}
-                        </span>
-                        <span className="spec-chip">
-                          {product.specifications[2]}
-                        </span>
-                      </div>
-                    </div>
-                  </div>
                 </div>
 
+                {/* RIGHT SIDE CONTENT */}
                 <div className="product-body">
-                  <div className="product-specs-v1">
-                    <div className="product-category-tag">
-                      {product.categoryName}
-                    </div>
-                    <h3 className="product-name">{product.productName}</h3>
-                    <div className="product-origin">Origin: India</div>
-                    <p className="product-desc">{product.shortDescription}</p>
-
-                    <div>
-                      <span className="product-section-title">
-                        Specification
-                      </span>
-                      <div className="product-specs">
-                        <span className="product-spec">
-                          {product.specifications[0]}
-                        </span>
-                        <span className="product-spec">
-                          {product.specifications[1]}
-                        </span>
-                        <span className="product-spec">
-                          {product.specifications[2]}
-                        </span>
-                      </div>
-                      <span className="product-section-title">
-                        Packaging Options
-                      </span>
-                      <div className="product-specs">
-                        <span className="product-spec">
-                          {product.packagingOption[0]}
-                        </span>
-                        <span className="product-spec">
-                          {product.packagingOption[1]}
-                        </span>
-                        <span className="product-spec">
-                          {product.packagingOption[2]}
-                        </span>
-                      </div>
-                    </div>
+                  <div className="product-category-tag">
+                    {product.categoryName}
                   </div>
 
-                  {/* ✅ WHATSAPP-INTEGRATED ACTIONS */}
+                  <h3 className="product-name">{product.productName}</h3>
+                  <div className="product-origin">Origin: India</div>
+
+                  {/* <p className="product-desc">{product.shortDescription}</p> */}
+
+                  <span className="product-section-title">Specification</span>
+                  <div className="product-specs">
+                    {product.specifications.slice(0, 3).map((spec, i) => (
+                      <span key={i} className="product-spec">
+                        {spec}
+                      </span>
+                    ))}
+                  </div>
+
+                  <span className="product-section-title">
+                    Packaging Options
+                  </span>
+                  <div className="product-specs">
+                    {product.packagingOption.slice(0, 3).map((pack, i) => (
+                      <span key={i} className="product-spec">
+                        {pack}
+                      </span>
+                    ))}
+                  </div>
+
+                  {/* ACTIONS */}
                   <div className="product-actions">
                     <button
                       className="btn-enquiry"
@@ -193,13 +220,6 @@ function ProductListingPage() {
                         style={{ marginRight: 6 }}
                       ></i>
                       Send Enquiry
-                    </button>
-                    <button
-                      className="btn-wa-mini"
-                      onClick={() => openWhatsAppEnquiry(product)}
-                      title={`WhatsApp enquiry for ${product.productName}`}
-                    >
-                      <i className="fa fa-whatsapp"></i>
                     </button>
                   </div>
                 </div>
@@ -230,15 +250,7 @@ function ProductListingPage() {
               >
                 Prev
               </button>
-              {[...Array(totalPages)].map((_, i) => (
-                <button
-                  key={i}
-                  onClick={() => setCurrentPage(i + 1)}
-                  className={currentPage === i + 1 ? "active" : ""}
-                >
-                  {i + 1}
-                </button>
-              ))}
+              {getPagination()}
               <button
                 onClick={() => setCurrentPage((p) => p + 1)}
                 disabled={currentPage === totalPages}
