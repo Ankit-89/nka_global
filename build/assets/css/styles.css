@@ -2794,7 +2794,7 @@ input:focus-visible {
 
 .catalogue-section {
   padding: 150px 0;
-  max-width: 1500px;
+  max-width: 1300px;
   margin: 0 auto;
 }
 
@@ -3042,8 +3042,8 @@ input:focus-visible {
 
 /* LEFT IMAGE */
 .product-card.horizontal .product-img-wrap {
-  flex: 0 0 220px;
-  max-width: 220px;
+  flex: 0 0 145px;
+  max-width: 145px;
   display: block;
 }
 
@@ -3129,7 +3129,7 @@ input:focus-visible {
     width: 100%;
   }
   .catalogue-section {
-    padding: 0;
+    padding: 0 20px;
   }
 }
 
